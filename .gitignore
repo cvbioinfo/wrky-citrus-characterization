@@ -1,0 +1,21 @@
+# Ferramentas baixadas/localmente
+software/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ambientes
+.venv/
+venv/
+env/
+
+# Sistema/editor
+.DS_Store
+*~
+*.swp
+
+# Arquivos compactados grandes
+*.tar.gz
+*.zip
