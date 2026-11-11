@@ -1,0 +1,2 @@
+biopython
+numpy<2

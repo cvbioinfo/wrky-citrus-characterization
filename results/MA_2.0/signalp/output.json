@@ -1,0 +1,848 @@
+{
+  "INFO": {
+    "failedjobs": 0,
+    "size": 52
+  },
+  "CSV_FILE": "/home/caio/projetos/wrky_analysis/results/MA_2.0/signalp/prediction_results.txt",
+  "MATURE_FILE": "/home/caio/projetos/wrky_analysis/results/MA_2.0/signalp/processed_entries.fasta",
+  "GFF_FILE": "/home/caio/projetos/wrky_analysis/results/MA_2.0/signalp/output.gff3",
+  "ZIP_FILE": "",
+  "SEQUENCES": {
+    "CMJ_chr6_006230.5": {
+      "Name": "CMJ_chr6_006230.5",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        0.7365,
+        0.2635
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr7_002180.4": {
+      "Name": "CMJ_chr7_002180.4",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr1_006660.1": {
+      "Name": "CMJ_chr1_006660.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr6_010730.1": {
+      "Name": "CMJ_chr6_010730.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr6_021290.1": {
+      "Name": "CMJ_chr6_021290.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr4_007220.3": {
+      "Name": "CMJ_chr4_007220.3",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        0.9987,
+        0.0013
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr2_017020.1": {
+      "Name": "CMJ_chr2_017020.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr4_000860.1": {
+      "Name": "CMJ_chr4_000860.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr5_019500.1": {
+      "Name": "CMJ_chr5_019500.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr5_006290.1": {
+      "Name": "CMJ_chr5_006290.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr9_012700.1": {
+      "Name": "CMJ_chr9_012700.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr2_002560.1": {
+      "Name": "CMJ_chr2_002560.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr5_043250.1": {
+      "Name": "CMJ_chr5_043250.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr7_007480.1": {
+      "Name": "CMJ_chr7_007480.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr5_004130.1": {
+      "Name": "CMJ_chr5_004130.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr8_009190.1": {
+      "Name": "CMJ_chr8_009190.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr5_011210.1": {
+      "Name": "CMJ_chr5_011210.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr9_009740.1": {
+      "Name": "CMJ_chr9_009740.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr5_003650.1": {
+      "Name": "CMJ_chr5_003650.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr9_009270.1": {
+      "Name": "CMJ_chr9_009270.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        0.9971,
+        0.0029
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr7_013430.1": {
+      "Name": "CMJ_chr7_013430.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr1_022090.1": {
+      "Name": "CMJ_chr1_022090.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr3_023670.1": {
+      "Name": "CMJ_chr3_023670.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr2_008040.1": {
+      "Name": "CMJ_chr2_008040.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr2_003320.1": {
+      "Name": "CMJ_chr2_003320.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr4_005080.1": {
+      "Name": "CMJ_chr4_005080.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr3_005940.1": {
+      "Name": "CMJ_chr3_005940.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr2_018180.1": {
+      "Name": "CMJ_chr2_018180.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr4_008940.1": {
+      "Name": "CMJ_chr4_008940.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0001
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr1_002910.1": {
+      "Name": "CMJ_chr1_002910.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr5_006500.1": {
+      "Name": "CMJ_chr5_006500.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0001
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr5_042520.1": {
+      "Name": "CMJ_chr5_042520.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr6_022400.1": {
+      "Name": "CMJ_chr6_022400.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr5_005620.1": {
+      "Name": "CMJ_chr5_005620.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr5_003600.1": {
+      "Name": "CMJ_chr5_003600.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr5_041190.1": {
+      "Name": "CMJ_chr5_041190.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr4_025320.1": {
+      "Name": "CMJ_chr4_025320.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr2_001470.1": {
+      "Name": "CMJ_chr2_001470.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr4_009630.1": {
+      "Name": "CMJ_chr4_009630.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr5_000500.1": {
+      "Name": "CMJ_chr5_000500.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr7_023240.1": {
+      "Name": "CMJ_chr7_023240.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr1_009680.2": {
+      "Name": "CMJ_chr1_009680.2",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr6_023850.1": {
+      "Name": "CMJ_chr6_023850.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr6_011540.1": {
+      "Name": "CMJ_chr6_011540.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr7_003410.1": {
+      "Name": "CMJ_chr7_003410.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr4_025330.1": {
+      "Name": "CMJ_chr4_025330.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr7_023260.1": {
+      "Name": "CMJ_chr7_023260.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr1_002460.1": {
+      "Name": "CMJ_chr1_002460.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr4_026050.1": {
+      "Name": "CMJ_chr4_026050.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr5_019530.1": {
+      "Name": "CMJ_chr5_019530.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 25 and 26. Probability 0.634645"
+    },
+    "CMJ_chr2_030690.1": {
+      "Name": "CMJ_chr2_030690.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CMJ_chr8_008560.1": {
+      "Name": "CMJ_chr8_008560.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    }
+  },
+  "FORMAT": "none",
+  "ORG": "eukarya",
+  "MODE": "fast",
+  "REGION_GFF_FILE": "/home/caio/projetos/wrky_analysis/results/MA_2.0/signalp/region_output.gff3"
+}

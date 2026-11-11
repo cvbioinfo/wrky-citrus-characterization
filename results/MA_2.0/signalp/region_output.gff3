@@ -1,0 +1,4 @@
+## gff-version 3
+CMJ_chr5_019530.1	SignalP-6.0	n-region	1	2	.	.	.	.
+CMJ_chr5_019530.1	SignalP-6.0	h-region	3	17	.	.	.	.
+CMJ_chr5_019530.1	SignalP-6.0	c-region	18	25	.	.	.	.

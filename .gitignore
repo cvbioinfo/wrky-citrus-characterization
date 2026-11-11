@@ -1,21 +1,17 @@
-# Ferramentas baixadas/localmente
+# Large tools / model weights: download and install locally, do not commit
 software/
 
-# Python
+# Python caches and environments
 __pycache__/
-*.pyc
-*.pyo
-
-# Ambientes
+*.py[cod]
 .venv/
 venv/
-env/
 
-# Sistema/editor
+# OS/editor files
 .DS_Store
 *~
 *.swp
 
-# Arquivos compactados grandes
+# Archives
 *.tar.gz
 *.zip

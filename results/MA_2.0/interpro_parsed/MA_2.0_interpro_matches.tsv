@@ -1,0 +1,1039 @@
+protein_id	protein_length	source	database_version	signature_accession	signature_name	signature_description	signature_type	interpro_accession	interpro_name	interpro_description	interpro_type	start	end	evalue	score	representative
+CMJ_chr5_011210.1	353	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	287	344	1.2e-23	94.4	False
+CMJ_chr5_011210.1	353	Pfam	38.2	PF10533	Plant_zn_clust	Plant zinc cluster domain	Domain	IPR018872	Zn-cluster-dom	Zn-cluster domain	Domain	238	283	1.6e-14	65.0	True
+CMJ_chr5_011210.1	353	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	224	255	NA	NA	False
+CMJ_chr5_011210.1	353	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	280	346	NA	29.952631	True
+CMJ_chr5_011210.1	353	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	283	345	5.1e-27	NA	False
+CMJ_chr5_011210.1	353	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	269	346	7.4e-31	107.8	False
+CMJ_chr5_011210.1	353	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	283	345	NA	0.99880975	False
+CMJ_chr5_011210.1	353	InterPro-N	37.3	PF10533	NA	NA	NA	NA	NA	NA	NA	237	283	NA	0.99970585	False
+CMJ_chr5_011210.1	353	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	287	344	NA	0.9999812	False
+CMJ_chr5_011210.1	353	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	280	346	NA	0.9995294	False
+CMJ_chr5_011210.1	353	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	270	346	NA	0.9983833	False
+CMJ_chr5_011210.1	353	InterPro-N	19.0	PTHR31282	NA	NA	NA	NA	NA	NA	NA	2	350	NA	0.999495	False
+CMJ_chr5_011210.1	353	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	285	345	NA	0.99997747	False
+CMJ_chr5_011210.1	353	PANTHER	19.0	PTHR31282	NA	WRKY TRANSCRIPTION FACTOR 21-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	2	351	5.3e-47	171.3	True
+CMJ_chr5_011210.1	353	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	285	345	6.6e-38	141.9	False
+CMJ_chr5_011210.1	353	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000004	NA	WRKY transcription factor 65	Region	NA	NA	NA	NA	269	346	9.2e-47	158.3	False
+CMJ_chr2_003320.1	269	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	80	137	1.6e-22	90.7	False
+CMJ_chr2_003320.1	269	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	1	118	NA	NA	False
+CMJ_chr2_003320.1	269	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	1	13	NA	NA	False
+CMJ_chr2_003320.1	269	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	23	34	NA	NA	False
+CMJ_chr2_003320.1	269	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	64	73	NA	NA	False
+CMJ_chr2_003320.1	269	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	141	179	NA	NA	False
+CMJ_chr2_003320.1	269	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	145	155	NA	NA	False
+CMJ_chr2_003320.1	269	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	165	176	NA	NA	False
+CMJ_chr2_003320.1	269	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	73	139	NA	32.052998	False
+CMJ_chr2_003320.1	269	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	74	139	4.71e-26	NA	False
+CMJ_chr2_003320.1	269	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	65	140	3.7e-31	108.8	True
+CMJ_chr2_003320.1	269	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	76	139	NA	0.997882	False
+CMJ_chr2_003320.1	269	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	80	137	NA	0.9999781	False
+CMJ_chr2_003320.1	269	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	74	139	NA	0.99988955	False
+CMJ_chr2_003320.1	269	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	67	140	NA	0.99927205	False
+CMJ_chr2_003320.1	269	InterPro-N	19.0	PTHR32096	NA	NA	NA	NA	NA	NA	NA	17	252	NA	0.99962616	False
+CMJ_chr2_003320.1	269	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	78	138	NA	0.9998665	False
+CMJ_chr2_003320.1	269	PANTHER	19.0	PTHR32096	NA	WRKY TRANSCRIPTION FACTOR 30-RELATED-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	16	253	1.3e-54	197.9	True
+CMJ_chr2_003320.1	269	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	78	138	7.5e-36	135.1	False
+CMJ_chr2_003320.1	269	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000004	NA	WRKY transcription factor 65	Region	NA	NA	NA	NA	59	139	8.2e-41	139.2	False
+CMJ_chr7_023260.1	212	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	186	206	0.00079	30.9	False
+CMJ_chr7_023260.1	212	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	128	189	NA	NA	False
+CMJ_chr7_023260.1	212	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	149	159	NA	NA	False
+CMJ_chr7_023260.1	212	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	167	180	NA	NA	False
+CMJ_chr7_023260.1	212	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	186	206	NA	8.960469	False
+CMJ_chr7_023260.1	212	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	183	207	6.41e-08	NA	False
+CMJ_chr7_023260.1	212	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	168	211	3e-09	38.4	True
+CMJ_chr7_023260.1	212	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	182	208	NA	0.99957246	False
+CMJ_chr7_023260.1	212	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	187	207	NA	0.9999617	False
+CMJ_chr7_023260.1	212	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	184	211	NA	0.9943864	False
+CMJ_chr7_023260.1	212	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	166	212	NA	0.9984292	False
+CMJ_chr7_023260.1	212	InterPro-N	19.0	PTHR31282	NA	NA	NA	NA	NA	NA	NA	2	208	NA	0.9746281	False
+CMJ_chr7_023260.1	212	PANTHER	19.0	PTHR31282	NA	WRKY TRANSCRIPTION FACTOR 21-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	8	206	7.8e-16	69.8	True
+CMJ_chr7_023260.1	212	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	185	212	0.00076	8.5	False
+CMJ_chr4_025330.1	247	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	89	148	1.8e-20	84.2	False
+CMJ_chr4_025330.1	247	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	83	150	NA	26.566799	False
+CMJ_chr4_025330.1	247	COILS	2.2.1	Coil	NA	Coil	Region	NA	NA	NA	NA	1	42	NA	NA	False
+CMJ_chr4_025330.1	247	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	86	149	4.71e-25	NA	False
+CMJ_chr4_025330.1	247	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	72	150	8.1e-29	101.2	True
+CMJ_chr4_025330.1	247	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	83	150	NA	0.9955247	False
+CMJ_chr4_025330.1	247	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	89	148	NA	0.99995595	False
+CMJ_chr4_025330.1	247	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	83	150	NA	0.99978775	False
+CMJ_chr4_025330.1	247	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	72	150	NA	0.9975192	False
+CMJ_chr4_025330.1	247	InterPro-N	19.0	PTHR31429	NA	NA	NA	NA	NA	NA	NA	1	240	NA	0.9996014	False
+CMJ_chr4_025330.1	247	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	88	149	NA	0.999913	False
+CMJ_chr4_025330.1	247	PANTHER	19.0	PTHR31429	NA	WRKY TRANSCRIPTION FACTOR 36-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	56	240	7.4e-51	185.6	True
+CMJ_chr4_025330.1	247	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	88	149	8.6e-32	121.6	False
+CMJ_chr3_005940.1	293	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	128	186	1.1e-22	91.3	False
+CMJ_chr3_005940.1	293	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	18	54	NA	NA	False
+CMJ_chr3_005940.1	293	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	39	54	NA	NA	False
+CMJ_chr3_005940.1	293	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	122	188	NA	28.988531	False
+CMJ_chr3_005940.1	293	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	119	188	5.62e-28	NA	False
+CMJ_chr3_005940.1	293	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	112	189	4.8e-33	114.8	True
+CMJ_chr3_005940.1	293	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	120	188	NA	0.99931866	False
+CMJ_chr3_005940.1	293	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	128	186	NA	0.9999644	False
+CMJ_chr3_005940.1	293	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	122	188	NA	0.99980307	False
+CMJ_chr3_005940.1	293	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	112	189	NA	0.99586844	False
+CMJ_chr3_005940.1	293	InterPro-N	19.0	PTHR31429	NA	NA	NA	NA	NA	NA	NA	4	277	NA	0.99954635	False
+CMJ_chr3_005940.1	293	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	127	187	NA	0.9999797	False
+CMJ_chr3_005940.1	293	PANTHER	19.0	PTHR31429	NA	WRKY TRANSCRIPTION FACTOR 36-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	1	279	9.3e-79	277.3	True
+CMJ_chr3_005940.1	293	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	127	187	4.3e-37	139.2	False
+CMJ_chr3_005940.1	293	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000002	NA	probable WRKY transcription factor 31	Region	NA	NA	NA	NA	112	189	3.9e-51	172.9	False
+CMJ_chr1_006660.1	592	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000006	NA	WRKY transcription factor	Region	NA	NA	NA	NA	222	295	5.6e-36	124.2	False
+CMJ_chr1_006660.1	592	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000001	NA	WRKY transcription factor 33	Region	NA	NA	NA	NA	401	467	2.7e-45	153.9	False
+CMJ_chr1_006660.1	592	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	221	295	5.5e-27	95.4	True
+CMJ_chr1_006660.1	592	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	401	467	5.8e-37	127.2	False
+CMJ_chr1_006660.1	592	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	48	70	NA	NA	False
+CMJ_chr1_006660.1	592	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	53	64	NA	NA	False
+CMJ_chr1_006660.1	592	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	147	189	NA	NA	False
+CMJ_chr1_006660.1	592	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	147	191	NA	NA	False
+CMJ_chr1_006660.1	592	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	205	216	NA	NA	False
+CMJ_chr1_006660.1	592	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	205	240	NA	NA	False
+CMJ_chr1_006660.1	592	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	217	229	NA	NA	False
+CMJ_chr1_006660.1	592	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	230	240	NA	NA	False
+CMJ_chr1_006660.1	592	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	284	401	NA	NA	False
+CMJ_chr1_006660.1	592	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	295	313	NA	NA	False
+CMJ_chr1_006660.1	592	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	314	345	NA	NA	False
+CMJ_chr1_006660.1	592	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	464	506	NA	NA	False
+CMJ_chr1_006660.1	592	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	487	503	NA	NA	False
+CMJ_chr1_006660.1	592	PANTHER	19.0	PTHR31221	NA	WRKY TRANSCRIPTION FACTOR PROTEIN 1-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	276	498	1.6e-64	230.4	True
+CMJ_chr1_006660.1	592	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	236	292	6.5e-23	92.0	False
+CMJ_chr1_006660.1	592	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	415	472	2.4e-23	93.4	False
+CMJ_chr1_006660.1	592	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	230	294	NA	23.91552	False
+CMJ_chr1_006660.1	592	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	409	474	NA	38.147499	False
+CMJ_chr1_006660.1	592	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	235	293	3.9e-36	136.1	False
+CMJ_chr1_006660.1	592	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	414	473	1.2e-39	147.7	False
+CMJ_chr1_006660.1	592	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	231	294	2.48e-25	NA	False
+CMJ_chr1_006660.1	592	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	406	474	1.24e-29	NA	True
+CMJ_chr1_006660.1	592	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	236	292	NA	0.999841	False
+CMJ_chr1_006660.1	592	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	415	472	NA	0.99988914	False
+CMJ_chr1_006660.1	592	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	232	294	NA	0.998748	False
+CMJ_chr1_006660.1	592	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	406	474	NA	0.9989618	False
+CMJ_chr1_006660.1	592	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	235	293	NA	0.9999879	False
+CMJ_chr1_006660.1	592	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	414	473	NA	0.9999386	False
+CMJ_chr1_006660.1	592	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	222	295	NA	0.9991584	False
+CMJ_chr1_006660.1	592	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	401	467	NA	0.9980978	False
+CMJ_chr1_006660.1	592	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	232	294	NA	0.9998832	False
+CMJ_chr1_006660.1	592	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	409	474	NA	0.9999	False
+CMJ_chr1_006660.1	592	InterPro-N	19.0	PTHR31221	NA	NA	NA	NA	NA	NA	NA	278	501	NA	0.99824303	False
+CMJ_chr2_001470.1	609	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	361	418	6.3e-22	88.9	False
+CMJ_chr2_001470.1	609	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	89	119	NA	NA	False
+CMJ_chr2_001470.1	609	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	89	100	NA	NA	False
+CMJ_chr2_001470.1	609	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	107	119	NA	NA	False
+CMJ_chr2_001470.1	609	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	133	154	NA	NA	False
+CMJ_chr2_001470.1	609	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	133	143	NA	NA	False
+CMJ_chr2_001470.1	609	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	205	267	NA	NA	False
+CMJ_chr2_001470.1	609	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	217	231	NA	NA	False
+CMJ_chr2_001470.1	609	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	246	261	NA	NA	False
+CMJ_chr2_001470.1	609	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	296	341	NA	NA	False
+CMJ_chr2_001470.1	609	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	315	341	NA	NA	False
+CMJ_chr2_001470.1	609	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	536	558	NA	NA	False
+CMJ_chr2_001470.1	609	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	536	547	NA	NA	False
+CMJ_chr2_001470.1	609	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	354	420	NA	29.516491	False
+CMJ_chr2_001470.1	609	COILS	2.2.1	Coil	NA	Coil	Region	NA	NA	NA	NA	154	188	NA	NA	False
+CMJ_chr2_001470.1	609	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	352	420	1.44e-27	NA	False
+CMJ_chr2_001470.1	609	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	344	421	8.5e-33	114.0	True
+CMJ_chr2_001470.1	609	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	353	420	NA	0.9980843	False
+CMJ_chr2_001470.1	609	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	361	418	NA	0.99997944	False
+CMJ_chr2_001470.1	609	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	354	420	NA	0.99945956	False
+CMJ_chr2_001470.1	609	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	344	421	NA	0.9988492	False
+CMJ_chr2_001470.1	609	InterPro-N	19.0	PTHR31429	NA	NA	NA	NA	NA	NA	NA	140	590	NA	0.99991924	False
+CMJ_chr2_001470.1	609	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	359	419	NA	0.9999734	False
+CMJ_chr2_001470.1	609	PANTHER	19.0	PTHR31429	NA	WRKY TRANSCRIPTION FACTOR 36-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	139	591	2e-120	414.2	True
+CMJ_chr2_001470.1	609	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	359	419	1.5e-36	137.4	False
+CMJ_chr2_001470.1	609	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000002	NA	probable WRKY transcription factor 31	Region	NA	NA	NA	NA	344	421	5.3e-51	172.4	False
+CMJ_chr4_008940.1	772	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	217	273	2.7e-22	90.0	False
+CMJ_chr4_008940.1	772	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	1	31	NA	NA	False
+CMJ_chr4_008940.1	772	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	1	17	NA	NA	False
+CMJ_chr4_008940.1	772	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	186	223	NA	NA	False
+CMJ_chr4_008940.1	772	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	194	203	NA	NA	False
+CMJ_chr4_008940.1	772	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	320	364	NA	NA	False
+CMJ_chr4_008940.1	772	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	330	341	NA	NA	False
+CMJ_chr4_008940.1	772	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	387	408	NA	NA	False
+CMJ_chr4_008940.1	772	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	217	275	NA	22.790735	False
+CMJ_chr4_008940.1	772	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	214	275	1.15e-24	NA	False
+CMJ_chr4_008940.1	772	SUPERFAMILY	1.75	SSF56399	NA	ADP-ribosylation	Homologous_superfamily	NA	NA	NA	NA	571	772	3.74e-06	NA	True
+CMJ_chr4_008940.1	772	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	210	276	2e-26	93.6	True
+CMJ_chr4_008940.1	772	InterPro-N	1.75	SSF56399	NA	NA	NA	NA	NA	NA	NA	580	772	NA	0.8754561	False
+CMJ_chr4_008940.1	772	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	213	275	NA	0.99931175	False
+CMJ_chr4_008940.1	772	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	217	273	NA	0.99981225	False
+CMJ_chr4_008940.1	772	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	215	275	NA	0.9993425	False
+CMJ_chr4_008940.1	772	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	211	275	NA	0.99997735	False
+CMJ_chr4_008940.1	772	InterPro-N	4.3.0	G3DSA:3.90.228.10	NA	NA	NA	NA	NA	NA	NA	580	772	NA	0.9862061	False
+CMJ_chr4_008940.1	772	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	216	274	NA	0.99998075	False
+CMJ_chr4_008940.1	772	PANTHER	19.0	PTHR31681	NA	C2H2-LIKE ZINC FINGER PROTEIN	Family	NA	NA	NA	NA	484	770	1.7e-53	194.1	True
+CMJ_chr4_008940.1	772	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	216	274	4.1e-34	129.3	False
+CMJ_chr4_008940.1	772	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000006	NA	WRKY transcription factor	Region	NA	NA	NA	NA	203	276	2.3e-34	119.0	False
+CMJ_chr4_000860.1	485	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	348	404	2.3e-21	87.1	False
+CMJ_chr4_000860.1	485	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	175	230	5.4e-14	63.5	False
+CMJ_chr4_000860.1	485	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	1	76	NA	NA	False
+CMJ_chr4_000860.1	485	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	7	16	NA	NA	False
+CMJ_chr4_000860.1	485	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	17	40	NA	NA	False
+CMJ_chr4_000860.1	485	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	265	332	NA	NA	False
+CMJ_chr4_000860.1	485	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	299	312	NA	NA	False
+CMJ_chr4_000860.1	485	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	174	232	NA	16.925783	False
+CMJ_chr4_000860.1	485	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	341	406	NA	31.926744	False
+CMJ_chr4_000860.1	485	COILS	2.2.1	Coil	NA	Coil	Region	NA	NA	NA	NA	18	38	NA	NA	False
+CMJ_chr4_000860.1	485	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	342	406	6.67e-27	NA	False
+CMJ_chr4_000860.1	485	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	170	232	2.75e-19	NA	False
+CMJ_chr4_000860.1	485	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	161	233	3.2e-18	67.3	True
+CMJ_chr4_000860.1	485	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	331	407	1.4e-28	100.4	True
+CMJ_chr4_000860.1	485	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	341	406	NA	0.99938995	False
+CMJ_chr4_000860.1	485	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	172	232	NA	0.9971867	False
+CMJ_chr4_000860.1	485	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	175	230	NA	0.9999612	False
+CMJ_chr4_000860.1	485	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	347	404	NA	0.9998891	False
+CMJ_chr4_000860.1	485	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	172	232	NA	0.99998385	False
+CMJ_chr4_000860.1	485	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	341	406	NA	0.9994077	False
+CMJ_chr4_000860.1	485	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	332	407	NA	0.9996049	False
+CMJ_chr4_000860.1	485	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	161	233	NA	0.9989386	False
+CMJ_chr4_000860.1	485	InterPro-N	19.0	PTHR31221	NA	NA	NA	NA	NA	NA	NA	100	430	NA	0.9781248	False
+CMJ_chr4_000860.1	485	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	173	231	NA	0.99999315	False
+CMJ_chr4_000860.1	485	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	346	405	NA	0.99987954	False
+CMJ_chr4_000860.1	485	PANTHER	19.0	PTHR31221	NA	WRKY TRANSCRIPTION FACTOR PROTEIN 1-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	120	433	1.3e-65	234.0	True
+CMJ_chr4_000860.1	485	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	173	231	7.7e-23	91.9	False
+CMJ_chr4_000860.1	485	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	346	405	2.5e-35	133.3	False
+CMJ_chr4_000860.1	485	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000006	NA	WRKY transcription factor	Region	NA	NA	NA	NA	333	407	3.9e-30	105.5	False
+CMJ_chr6_023850.1	330	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	125	202	2.7e-25	90.0	True
+CMJ_chr6_023850.1	330	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	240	270	NA	NA	False
+CMJ_chr6_023850.1	330	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	244	253	NA	NA	False
+CMJ_chr6_023850.1	330	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	259	268	NA	NA	False
+CMJ_chr6_023850.1	330	PANTHER	19.0	PTHR32096	NA	WRKY TRANSCRIPTION FACTOR 30-RELATED-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	20	282	3.7e-35	134.0	True
+CMJ_chr6_023850.1	330	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	141	201	5.6e-21	85.8	False
+CMJ_chr6_023850.1	330	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	135	198	NA	20.678892	False
+CMJ_chr6_023850.1	330	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	140	202	4.4e-37	139.2	False
+CMJ_chr6_023850.1	330	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	134	201	1.7e-24	NA	False
+CMJ_chr6_023850.1	330	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	137	201	NA	0.9958211	False
+CMJ_chr6_023850.1	330	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	126	203	NA	0.997936	False
+CMJ_chr6_023850.1	330	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	141	201	NA	0.99999297	False
+CMJ_chr6_023850.1	330	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	140	202	NA	0.9999916	False
+CMJ_chr6_023850.1	330	InterPro-N	19.0	PTHR32096	NA	NA	NA	NA	NA	NA	NA	20	299	NA	0.99111277	False
+CMJ_chr6_023850.1	330	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	135	200	NA	0.9999227	False
+CMJ_chr5_005620.1	501	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000002	NA	probable WRKY transcription factor 31	Region	NA	NA	NA	NA	257	334	6e-51	172.3	False
+CMJ_chr5_005620.1	501	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	257	334	4.2e-33	115.0	True
+CMJ_chr5_005620.1	501	COILS	2.2.1	Coil	NA	Coil	Region	NA	NA	NA	NA	89	130	NA	NA	False
+CMJ_chr5_005620.1	501	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	173	254	NA	NA	False
+CMJ_chr5_005620.1	501	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	211	235	NA	NA	False
+CMJ_chr5_005620.1	501	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	239	249	NA	NA	False
+CMJ_chr5_005620.1	501	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	472	483	NA	NA	False
+CMJ_chr5_005620.1	501	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	472	501	NA	NA	False
+CMJ_chr5_005620.1	501	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	484	501	NA	NA	False
+CMJ_chr5_005620.1	501	PANTHER	19.0	PTHR31429	NA	WRKY TRANSCRIPTION FACTOR 36-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	88	470	1.4e-115	398.3	True
+CMJ_chr5_005620.1	501	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	274	331	3.9e-22	89.5	False
+CMJ_chr5_005620.1	501	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	267	333	NA	29.9182	False
+CMJ_chr5_005620.1	501	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	272	332	1.2e-36	137.7	False
+CMJ_chr5_005620.1	501	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	265	333	1.02e-27	NA	False
+CMJ_chr5_005620.1	501	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	274	331	NA	0.99998426	False
+CMJ_chr5_005620.1	501	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	272	332	NA	0.99997014	False
+CMJ_chr5_005620.1	501	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	266	333	NA	0.9976696	False
+CMJ_chr5_005620.1	501	InterPro-N	19.0	PTHR31429	NA	NA	NA	NA	NA	NA	NA	84	469	NA	0.9999601	False
+CMJ_chr5_005620.1	501	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	267	333	NA	0.9992218	False
+CMJ_chr5_005620.1	501	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	257	334	NA	0.999175	False
+CMJ_chr6_022400.1	589	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	250	308	4.4e-22	89.4	False
+CMJ_chr6_022400.1	589	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	44	80	NA	NA	False
+CMJ_chr6_022400.1	589	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	51	60	NA	NA	False
+CMJ_chr6_022400.1	589	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	67	80	NA	NA	False
+CMJ_chr6_022400.1	589	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	139	168	NA	NA	False
+CMJ_chr6_022400.1	589	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	187	208	NA	NA	False
+CMJ_chr6_022400.1	589	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	197	207	NA	NA	False
+CMJ_chr6_022400.1	589	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	513	536	NA	NA	False
+CMJ_chr6_022400.1	589	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	513	536	NA	NA	False
+CMJ_chr6_022400.1	589	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	569	589	NA	NA	False
+CMJ_chr6_022400.1	589	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	580	589	NA	NA	False
+CMJ_chr6_022400.1	589	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	244	310	NA	28.850801	False
+CMJ_chr6_022400.1	589	COILS	2.2.1	Coil	NA	Coil	Region	NA	NA	NA	NA	59	100	NA	NA	False
+CMJ_chr6_022400.1	589	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	242	310	3.01e-27	NA	False
+CMJ_chr6_022400.1	589	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	234	311	5.1e-32	111.5	True
+CMJ_chr6_022400.1	589	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	242	310	NA	0.999257	False
+CMJ_chr6_022400.1	589	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	250	308	NA	0.99992126	False
+CMJ_chr6_022400.1	589	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	244	310	NA	0.9995585	False
+CMJ_chr6_022400.1	589	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	234	311	NA	0.99876404	False
+CMJ_chr6_022400.1	589	InterPro-N	19.0	PTHR31429	NA	NA	NA	NA	NA	NA	NA	57	508	NA	0.9998812	False
+CMJ_chr6_022400.1	589	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	249	309	NA	0.9999136	False
+CMJ_chr6_022400.1	589	PANTHER	19.0	PTHR31429	NA	WRKY TRANSCRIPTION FACTOR 36-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	59	507	2e-112	387.9	True
+CMJ_chr6_022400.1	589	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	249	309	4.4e-37	139.2	False
+CMJ_chr6_022400.1	589	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000002	NA	probable WRKY transcription factor 31	Region	NA	NA	NA	NA	234	311	5.5e-51	172.4	False
+CMJ_chr1_002460.1	83	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	60	80	0.004	28.6	False
+CMJ_chr1_002460.1	83	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	54	83	NA	12.036412	False
+CMJ_chr1_002460.1	83	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	51	80	1.31e-08	NA	False
+CMJ_chr1_002460.1	83	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	46	83	6.3e-13	50.2	True
+CMJ_chr1_002460.1	83	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	52	81	NA	0.9998231	False
+CMJ_chr1_002460.1	83	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	60	82	NA	0.99992865	False
+CMJ_chr1_002460.1	83	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	53	83	NA	0.9997076	False
+CMJ_chr1_002460.1	83	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	46	83	NA	0.99984086	False
+CMJ_chr1_002460.1	83	InterPro-N	19.0	PTHR31221	NA	NA	NA	NA	NA	NA	NA	18	80	NA	0.99848676	False
+CMJ_chr1_002460.1	83	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	59	83	NA	0.890434	False
+CMJ_chr1_002460.1	83	PANTHER	19.0	PTHR31221	NA	WRKY TRANSCRIPTION FACTOR PROTEIN 1-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	25	79	2.2e-12	59.5	True
+CMJ_chr5_006290.1	322	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000003	NA	WRKY transcription factor 57	Region	NA	NA	NA	NA	154	228	6.6e-44	149.4	False
+CMJ_chr5_006290.1	322	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	152	229	9.4e-35	120.2	True
+CMJ_chr5_006290.1	322	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	1	24	NA	NA	False
+CMJ_chr5_006290.1	322	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	99	156	NA	NA	False
+CMJ_chr5_006290.1	322	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	121	134	NA	NA	False
+CMJ_chr5_006290.1	322	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	137	150	NA	NA	False
+CMJ_chr5_006290.1	322	PANTHER	19.0	PTHR31221	NA	WRKY TRANSCRIPTION FACTOR PROTEIN 1-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	72	252	9.1e-56	201.7	False
+CMJ_chr5_006290.1	322	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	169	226	3.9e-24	95.9	False
+CMJ_chr5_006290.1	322	PIRSF	3.10	PIRSF038130	TF_WRKY_IIc	WRKY transcription factor, group II-c type	Family	IPR017396	TF_WRKY_IIc	WRKY transcription factor, group IIc	Family	1	322	4.3e-111	370.0	True
+CMJ_chr5_006290.1	322	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	163	228	NA	32.75312	False
+CMJ_chr5_006290.1	322	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	168	227	1.9e-39	147.1	False
+CMJ_chr5_006290.1	322	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	160	228	2.09e-29	NA	False
+CMJ_chr5_006290.1	322	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	163	228	NA	0.99996513	False
+CMJ_chr5_006290.1	322	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	153	229	NA	0.9990694	False
+CMJ_chr5_006290.1	322	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	168	227	NA	0.999987	False
+CMJ_chr5_006290.1	322	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	169	226	NA	0.99996096	False
+CMJ_chr5_006290.1	322	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	160	228	NA	0.9987063	False
+CMJ_chr5_006290.1	322	InterPro-N	3.10	PIRSF038130	NA	NA	NA	NA	NA	NA	NA	1	322	NA	0.97848743	False
+CMJ_chr5_006290.1	322	InterPro-N	19.0	PTHR31221	NA	NA	NA	NA	NA	NA	NA	86	247	NA	0.999701	False
+CMJ_chr7_003410.1	567	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	229	287	6.1e-21	85.7	False
+CMJ_chr7_003410.1	567	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	1	29	NA	NA	False
+CMJ_chr7_003410.1	567	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	15	29	NA	NA	False
+CMJ_chr7_003410.1	567	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	90	143	NA	NA	False
+CMJ_chr7_003410.1	567	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	90	103	NA	NA	False
+CMJ_chr7_003410.1	567	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	123	143	NA	NA	False
+CMJ_chr7_003410.1	567	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	158	202	NA	NA	False
+CMJ_chr7_003410.1	567	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	223	289	NA	28.185112	False
+CMJ_chr7_003410.1	567	COILS	2.2.1	Coil	NA	Coil	Region	NA	NA	NA	NA	39	73	NA	NA	False
+CMJ_chr7_003410.1	567	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	221	289	8.63e-27	NA	False
+CMJ_chr7_003410.1	567	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	213	290	4.9e-31	108.3	True
+CMJ_chr7_003410.1	567	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	221	289	NA	0.9987173	False
+CMJ_chr7_003410.1	567	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	229	287	NA	0.9999682	False
+CMJ_chr7_003410.1	567	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	223	289	NA	0.9997222	False
+CMJ_chr7_003410.1	567	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	213	290	NA	0.99929434	False
+CMJ_chr7_003410.1	567	InterPro-N	19.0	PTHR31429	NA	NA	NA	NA	NA	NA	NA	35	479	NA	0.99986696	False
+CMJ_chr7_003410.1	567	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	228	288	NA	0.99996907	False
+CMJ_chr7_003410.1	567	PANTHER	19.0	PTHR31429	NA	WRKY TRANSCRIPTION FACTOR 36-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	30	480	5e-106	366.9	True
+CMJ_chr7_003410.1	567	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	228	288	8.5e-34	128.3	False
+CMJ_chr7_003410.1	567	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000002	NA	probable WRKY transcription factor 31	Region	NA	NA	NA	NA	213	290	5.2e-50	169.3	False
+CMJ_chr4_026050.1	975	Pfam	38.2	PF03081	Exo70_C	Exo70 exocyst complex subunit C-terminal	Repeat	IPR046364	Exo70_C	Exocyst complex subunit Exo70, C-terminal	Domain	582	938	2e-97	338.2	False
+CMJ_chr4_026050.1	975	Pfam	38.2	PF10533	Plant_zn_clust	Plant zinc cluster domain	Domain	IPR018872	Zn-cluster-dom	Zn-cluster domain	Domain	208	260	1.3e-15	68.5	True
+CMJ_chr4_026050.1	975	Pfam	38.2	PF20669	Exo70_N	Exocyst complex component Exo70 N-terminal	Repeat	NA	NA	NA	NA	374	491	8.3e-10	50.1	False
+CMJ_chr4_026050.1	975	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	264	283	0.011	27.2	False
+CMJ_chr4_026050.1	975	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	74	113	NA	NA	False
+CMJ_chr4_026050.1	975	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	81	113	NA	NA	False
+CMJ_chr4_026050.1	975	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	210	241	NA	NA	False
+CMJ_chr4_026050.1	975	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	210	222	NA	NA	False
+CMJ_chr4_026050.1	975	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	225	235	NA	NA	False
+CMJ_chr4_026050.1	975	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	257	283	NA	12.04789	False
+CMJ_chr4_026050.1	975	SUPERFAMILY	1.75	SSF74788	NA	Cullin repeat-like	Homologous_superfamily	IPR016159	Cullin_repeat-like_dom_sf	Cullin repeat-like-containing domain superfamily	Homologous_superfamily	379	941	8.37e-130	NA	True
+CMJ_chr4_026050.1	975	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	260	283	4.32e-07	NA	False
+CMJ_chr4_026050.1	975	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	241	287	2.1e-09	38.9	False
+CMJ_chr4_026050.1	975	CATH-Gene3D	4.3.0	G3DSA:1.20.1280.170	NA	Exocyst complex component Exo70	Homologous_superfamily	NA	NA	NA	NA	427	947	4e-129	433.7	False
+CMJ_chr4_026050.1	975	InterPro-N	1.75	SSF74788	NA	NA	NA	NA	NA	NA	NA	345	943	NA	0.99965304	False
+CMJ_chr4_026050.1	975	InterPro-N	37.3	PF03081	NA	NA	NA	NA	NA	NA	NA	582	939	NA	0.9996333	False
+CMJ_chr4_026050.1	975	InterPro-N	37.3	PF20669	NA	NA	NA	NA	NA	NA	NA	370	482	NA	0.80331534	False
+CMJ_chr4_026050.1	975	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	262	285	NA	0.98851573	False
+CMJ_chr4_026050.1	975	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	259	287	NA	0.97312033	False
+CMJ_chr4_026050.1	975	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	258	293	NA	0.9617605	False
+CMJ_chr4_026050.1	975	InterPro-N	4.3.0	G3DSA:1.20.1280.170	NA	NA	NA	NA	NA	NA	NA	345	947	NA	0.85782075	False
+CMJ_chr4_026050.1	975	InterPro-N	19.0	PTHR12542	NA	NA	NA	NA	NA	NA	NA	338	942	NA	0.999374	False
+CMJ_chr4_026050.1	975	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	261	288	NA	0.96313953	False
+CMJ_chr4_026050.1	975	PANTHER	19.0	PTHR12542	NA	EXOCYST COMPLEX PROTEIN EXO70	Family	IPR004140	Exo70	Exocyst complex component Exo70	Family	370	941	2.6e-111	384.8	True
+CMJ_chr4_026050.1	975	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	262	307	0.00025	12.3	True
+CMJ_chr4_026050.1	975	CATH-FunFam	4.3.0	G3DSA:1.20.1280.170:FF:000007	NA	Exocyst subunit Exo70 family protein	Region	NA	NA	NA	NA	429	947	7.8e-281	934.1	False
+CMJ_chr5_006500.1	274	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000004	NA	WRKY transcription factor 65	Region	NA	NA	NA	NA	35	116	3.1e-37	127.8	False
+CMJ_chr5_006500.1	274	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	47	117	2.8e-29	102.7	True
+CMJ_chr5_006500.1	274	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	1	33	NA	NA	False
+CMJ_chr5_006500.1	274	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	9	25	NA	NA	False
+CMJ_chr5_006500.1	274	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	126	138	NA	NA	False
+CMJ_chr5_006500.1	274	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	126	177	NA	NA	False
+CMJ_chr5_006500.1	274	PANTHER	19.0	PTHR32096	NA	WRKY TRANSCRIPTION FACTOR 30-RELATED-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	20	251	7.5e-49	179.0	True
+CMJ_chr5_006500.1	274	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	55	115	1e-35	134.7	False
+CMJ_chr5_006500.1	274	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	53	116	5.49e-26	NA	False
+CMJ_chr5_006500.1	274	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	57	114	3.6e-22	89.6	False
+CMJ_chr5_006500.1	274	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	56	116	NA	31.19219	False
+CMJ_chr5_006500.1	274	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	54	116	NA	0.99991655	False
+CMJ_chr5_006500.1	274	InterPro-N	19.0	PTHR32096	NA	NA	NA	NA	NA	NA	NA	13	250	NA	0.99980515	False
+CMJ_chr5_006500.1	274	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	55	115	NA	0.99983966	False
+CMJ_chr5_006500.1	274	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	53	116	NA	0.99730176	False
+CMJ_chr5_006500.1	274	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	57	114	NA	0.9999853	False
+CMJ_chr5_006500.1	274	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	43	116	NA	0.9982561	False
+CMJ_chr1_022090.1	363	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000004	NA	WRKY transcription factor 65	Region	NA	NA	NA	NA	274	351	2.9e-44	150.3	False
+CMJ_chr1_022090.1	363	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	277	351	6.6e-30	104.7	True
+CMJ_chr1_022090.1	363	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	45	62	NA	NA	False
+CMJ_chr1_022090.1	363	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	45	66	NA	NA	False
+CMJ_chr1_022090.1	363	PANTHER	19.0	PTHR31282	NA	WRKY TRANSCRIPTION FACTOR 21-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	24	351	3.6e-46	168.6	True
+CMJ_chr1_022090.1	363	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	292	348	3.8e-23	92.8	False
+CMJ_chr1_022090.1	363	Pfam	38.2	PF10533	Plant_zn_clust	Plant zinc cluster domain	Domain	IPR018872	Zn-cluster-dom	Zn-cluster domain	Domain	240	288	1.6e-12	58.7	True
+CMJ_chr1_022090.1	363	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	285	351	NA	30.457638	False
+CMJ_chr1_022090.1	363	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	290	350	2.1e-38	143.6	False
+CMJ_chr1_022090.1	363	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	288	349	9.68e-27	NA	False
+CMJ_chr1_022090.1	363	InterPro-N	19.0	PTHR31282	NA	NA	NA	NA	NA	NA	NA	21	351	NA	0.9997079	False
+CMJ_chr1_022090.1	363	InterPro-N	37.3	PF10533	NA	NA	NA	NA	NA	NA	NA	241	288	NA	0.99971694	False
+CMJ_chr1_022090.1	363	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	292	348	NA	0.99994296	False
+CMJ_chr1_022090.1	363	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	285	351	NA	0.9995284	False
+CMJ_chr1_022090.1	363	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	290	350	NA	0.9999301	False
+CMJ_chr1_022090.1	363	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	288	350	NA	0.9988783	False
+CMJ_chr1_022090.1	363	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	276	351	NA	0.99722373	False
+CMJ_chr5_019530.1	135	SignalP	6.0i	SignalP-Sec-SPI	Sec/SPI	standard secretory signal peptides transported by the Sec translocon and cleaved by Signal Peptidase I (Lep)	Region	NA	NA	NA	NA	1	25	NA	0.9992286	False
+CMJ_chr5_019530.1	135	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	26	56	0.15	23.6	False
+CMJ_chr5_019530.1	135	SignalP	6.0i	SignalP-Sec-SPI	Sec/SPI	standard secretory signal peptides transported by the Sec translocon and cleaved by Signal Peptidase I (Lep)	Region	NA	NA	NA	NA	1	25	NA	0.9997861	False
+CMJ_chr5_019530.1	135	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	17	58	2.7e-05	25.9	True
+CMJ_chr5_019530.1	135	Phobius	1.01	SIGNAL_PEPTIDE	NA	Signal Peptide	Region	NA	NA	NA	NA	1	18	NA	NA	False
+CMJ_chr5_019530.1	135	Phobius	1.01	SIGNAL_PEPTIDE_N_REGION	NA	Signal peptide N-region	Region	NA	NA	NA	NA	1	2	NA	NA	False
+CMJ_chr5_019530.1	135	Phobius	1.01	SIGNAL_PEPTIDE_H_REGION	NA	Signal peptide H-region	Region	NA	NA	NA	NA	3	14	NA	NA	False
+CMJ_chr5_019530.1	135	Phobius	1.01	SIGNAL_PEPTIDE_C_REGION	NA	Signal peptide C-region	Region	NA	NA	NA	NA	15	18	NA	NA	False
+CMJ_chr5_019530.1	135	Phobius	1.01	NON_CYTOPLASMIC_DOMAIN	NA	Non cytoplasmic domain	Region	NA	NA	NA	NA	19	135	NA	NA	False
+CMJ_chr5_019530.1	135	PANTHER	19.0	PTHR31282	NA	WRKY TRANSCRIPTION FACTOR 21-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	26	66	5.2e-06	37.8	True
+CMJ_chr2_008040.1	501	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	255	312	1.2e-22	91.2	False
+CMJ_chr2_008040.1	501	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	305	391	NA	NA	False
+CMJ_chr2_008040.1	501	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	313	330	NA	NA	False
+CMJ_chr2_008040.1	501	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	339	348	NA	NA	False
+CMJ_chr2_008040.1	501	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	372	387	NA	NA	False
+CMJ_chr2_008040.1	501	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	478	501	NA	NA	False
+CMJ_chr2_008040.1	501	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	482	491	NA	NA	False
+CMJ_chr2_008040.1	501	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	248	314	NA	33.108917	False
+CMJ_chr2_008040.1	501	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	251	314	3.4e-26	NA	False
+CMJ_chr2_008040.1	501	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	227	307	1e-30	107.1	True
+CMJ_chr2_008040.1	501	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	251	314	NA	0.9982127	False
+CMJ_chr2_008040.1	501	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	255	312	NA	0.9999475	False
+CMJ_chr2_008040.1	501	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	248	314	NA	0.99997145	False
+CMJ_chr2_008040.1	501	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	228	307	NA	0.9974842	False
+CMJ_chr2_008040.1	501	InterPro-N	19.0	PTHR32096	NA	NA	NA	NA	NA	NA	NA	21	452	NA	0.9999783	False
+CMJ_chr2_008040.1	501	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	253	313	NA	0.9998848	False
+CMJ_chr2_008040.1	501	PANTHER	19.0	PTHR32096	NA	WRKY TRANSCRIPTION FACTOR 30-RELATED-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	152	447	7.4e-68	241.4	True
+CMJ_chr2_008040.1	501	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	253	313	1.4e-37	140.9	False
+CMJ_chr2_008040.1	501	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000005	NA	probable WRKY transcription factor 14	Region	NA	NA	NA	NA	227	307	2.8e-50	169.9	False
+CMJ_chr5_042520.1	306	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000007	NA	WRKY transcription factor 22	Region	NA	NA	NA	NA	111	182	6.5e-40	136.4	False
+CMJ_chr5_042520.1	306	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	111	181	1e-28	100.7	True
+CMJ_chr5_042520.1	306	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	75	116	NA	NA	False
+CMJ_chr5_042520.1	306	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	83	92	NA	NA	False
+CMJ_chr5_042520.1	306	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	186	222	NA	NA	False
+CMJ_chr5_042520.1	306	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	196	208	NA	NA	False
+CMJ_chr5_042520.1	306	PANTHER	19.0	PTHR32096	NA	WRKY TRANSCRIPTION FACTOR 30-RELATED-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	3	273	3e-56	203.3	True
+CMJ_chr5_042520.1	306	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	130	186	3.6e-22	89.6	False
+CMJ_chr5_042520.1	306	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	123	189	NA	31.984131	False
+CMJ_chr5_042520.1	306	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	128	188	7.3e-35	131.8	False
+CMJ_chr5_042520.1	306	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	127	189	3.01e-25	NA	False
+CMJ_chr5_042520.1	306	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	128	188	NA	0.99997914	False
+CMJ_chr5_042520.1	306	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	123	189	NA	0.9999681	False
+CMJ_chr5_042520.1	306	InterPro-N	19.0	PTHR32096	NA	NA	NA	NA	NA	NA	NA	28	266	NA	0.99999774	False
+CMJ_chr5_042520.1	306	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	125	189	NA	0.9729719	False
+CMJ_chr5_042520.1	306	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	113	189	NA	0.9989529	False
+CMJ_chr5_042520.1	306	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	130	187	NA	0.9999827	False
+CMJ_chr7_002180.4	366	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	91	147	1.1e-23	94.5	False
+CMJ_chr7_002180.4	366	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	262	319	1.5e-23	94.1	False
+CMJ_chr7_002180.4	366	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	1	98	NA	NA	False
+CMJ_chr7_002180.4	366	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	1	18	NA	NA	False
+CMJ_chr7_002180.4	366	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	29	67	NA	NA	False
+CMJ_chr7_002180.4	366	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	68	77	NA	NA	False
+CMJ_chr7_002180.4	366	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	141	244	NA	NA	False
+CMJ_chr7_002180.4	366	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	159	173	NA	NA	False
+CMJ_chr7_002180.4	366	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	192	204	NA	NA	False
+CMJ_chr7_002180.4	366	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	225	235	NA	NA	False
+CMJ_chr7_002180.4	366	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	316	356	NA	NA	False
+CMJ_chr7_002180.4	366	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	325	353	NA	NA	False
+CMJ_chr7_002180.4	366	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	85	149	NA	23.410515	False
+CMJ_chr7_002180.4	366	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	256	321	NA	38.870575	False
+CMJ_chr7_002180.4	366	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	253	321	7.59e-30	NA	False
+CMJ_chr7_002180.4	366	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	85	149	1.7e-26	NA	False
+CMJ_chr7_002180.4	366	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	77	150	9.2e-28	97.9	True
+CMJ_chr7_002180.4	366	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	246	322	1.1e-36	126.4	True
+CMJ_chr7_002180.4	366	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	88	149	NA	0.9994741	False
+CMJ_chr7_002180.4	366	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	253	321	NA	0.99745077	False
+CMJ_chr7_002180.4	366	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	91	147	NA	0.9999725	False
+CMJ_chr7_002180.4	366	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	262	319	NA	0.99988306	False
+CMJ_chr7_002180.4	366	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	89	149	NA	0.99998343	False
+CMJ_chr7_002180.4	366	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	256	321	NA	0.9999235	False
+CMJ_chr7_002180.4	366	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	76	150	NA	0.9997206	False
+CMJ_chr7_002180.4	366	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	247	321	NA	0.9989887	False
+CMJ_chr7_002180.4	366	InterPro-N	19.0	PTHR31221	NA	NA	NA	NA	NA	NA	NA	133	342	NA	0.9976613	False
+CMJ_chr7_002180.4	366	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	90	148	NA	0.9999939	False
+CMJ_chr7_002180.4	366	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	261	320	NA	0.9999417	False
+CMJ_chr7_002180.4	366	PANTHER	19.0	PTHR31221	NA	WRKY TRANSCRIPTION FACTOR PROTEIN 1-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	132	339	5.9e-60	215.4	True
+CMJ_chr7_002180.4	366	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	90	148	5.4e-37	138.9	False
+CMJ_chr7_002180.4	366	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	261	320	3.7e-39	146.1	False
+CMJ_chr7_002180.4	366	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000006	NA	WRKY transcription factor	Region	NA	NA	NA	NA	78	150	7.2e-36	123.8	False
+CMJ_chr7_002180.4	366	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000001	NA	WRKY transcription factor 33	Region	NA	NA	NA	NA	248	314	1e-44	152.0	False
+CMJ_chr5_004130.1	364	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000009	NA	WRKY transcription factor 53	Region	NA	NA	NA	NA	113	190	7.1e-40	136.6	False
+CMJ_chr5_004130.1	364	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	112	190	1.3e-27	97.4	True
+CMJ_chr5_004130.1	364	PANTHER	19.0	PTHR32096	NA	WRKY TRANSCRIPTION FACTOR 30-RELATED-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	11	245	1.1e-49	181.8	True
+CMJ_chr5_004130.1	364	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	128	187	2.3e-23	93.5	False
+CMJ_chr5_004130.1	364	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	122	185	NA	23.376081	False
+CMJ_chr5_004130.1	364	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	127	189	3.6e-40	149.4	False
+CMJ_chr5_004130.1	364	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	126	189	1.83e-25	NA	False
+CMJ_chr5_004130.1	364	InterPro-N	19.0	PTHR32096	NA	NA	NA	NA	NA	NA	NA	12	253	NA	0.99987036	False
+CMJ_chr5_004130.1	364	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	128	187	NA	0.999986	False
+CMJ_chr5_004130.1	364	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	122	185	NA	0.9989033	False
+CMJ_chr5_004130.1	364	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	127	189	NA	0.9999786	False
+CMJ_chr5_004130.1	364	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	126	189	NA	0.99773026	False
+CMJ_chr5_004130.1	364	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	113	189	NA	0.99914676	False
+CMJ_chr5_003600.1	342	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	160	217	3.9e-22	89.5	False
+CMJ_chr5_003600.1	342	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	86	150	NA	NA	False
+CMJ_chr5_003600.1	342	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	91	111	NA	NA	False
+CMJ_chr5_003600.1	342	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	116	128	NA	NA	False
+CMJ_chr5_003600.1	342	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	138	150	NA	NA	False
+CMJ_chr5_003600.1	342	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	213	282	NA	NA	False
+CMJ_chr5_003600.1	342	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	221	239	NA	NA	False
+CMJ_chr5_003600.1	342	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	240	263	NA	NA	False
+CMJ_chr5_003600.1	342	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	153	219	NA	34.887917	False
+CMJ_chr5_003600.1	342	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	156	219	4.58e-26	NA	False
+CMJ_chr5_003600.1	342	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	142	212	1.4e-30	106.7	True
+CMJ_chr5_003600.1	342	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	155	219	NA	0.99672294	False
+CMJ_chr5_003600.1	342	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	160	217	NA	0.9999775	False
+CMJ_chr5_003600.1	342	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	153	219	NA	0.9999943	False
+CMJ_chr5_003600.1	342	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	142	219	NA	0.9978783	False
+CMJ_chr5_003600.1	342	InterPro-N	19.0	PTHR32096	NA	NA	NA	NA	NA	NA	NA	1	304	NA	0.9999575	False
+CMJ_chr5_003600.1	342	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	158	218	NA	0.99998045	False
+CMJ_chr5_003600.1	342	PANTHER	19.0	PTHR32096	NA	WRKY TRANSCRIPTION FACTOR 30-RELATED-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	5	291	4.4e-67	238.8	True
+CMJ_chr5_003600.1	342	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	158	218	1e-36	138.0	False
+CMJ_chr5_003600.1	342	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000007	NA	WRKY transcription factor 22	Region	NA	NA	NA	NA	142	212	4.2e-44	149.8	False
+CMJ_chr9_009740.1	386	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000009	NA	WRKY transcription factor 53	Region	NA	NA	NA	NA	122	199	1.2e-43	148.7	False
+CMJ_chr9_009740.1	386	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	130	199	3e-28	99.4	True
+CMJ_chr9_009740.1	386	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	70	116	NA	NA	False
+CMJ_chr9_009740.1	386	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	84	95	NA	NA	False
+CMJ_chr9_009740.1	386	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	100	111	NA	NA	False
+CMJ_chr9_009740.1	386	PANTHER	19.0	PTHR32096	NA	WRKY TRANSCRIPTION FACTOR 30-RELATED-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	9	321	1.3e-51	188.0	True
+CMJ_chr9_009740.1	386	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	137	196	2.9e-23	93.2	False
+CMJ_chr9_009740.1	386	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	131	194	NA	22.297207	False
+CMJ_chr9_009740.1	386	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	136	198	4.2e-41	152.6	False
+CMJ_chr9_009740.1	386	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	135	198	1.96e-25	NA	False
+CMJ_chr9_009740.1	386	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	136	198	NA	0.999943	False
+CMJ_chr9_009740.1	386	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	135	197	NA	0.9975851	False
+CMJ_chr9_009740.1	386	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	122	199	NA	0.9921464	False
+CMJ_chr9_009740.1	386	InterPro-N	19.0	PTHR32096	NA	NA	NA	NA	NA	NA	NA	9	326	NA	0.9999491	False
+CMJ_chr9_009740.1	386	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	137	196	NA	0.9999736	False
+CMJ_chr9_009740.1	386	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	133	196	NA	0.99993736	False
+CMJ_chr3_023670.1	359	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	287	343	4.8e-23	92.4	False
+CMJ_chr3_023670.1	359	Pfam	38.2	PF10533	Plant_zn_clust	Plant zinc cluster domain	Domain	IPR018872	Zn-cluster-dom	Zn-cluster domain	Domain	238	283	3.4e-14	64.0	True
+CMJ_chr3_023670.1	359	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	47	71	NA	NA	False
+CMJ_chr3_023670.1	359	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	52	65	NA	NA	False
+CMJ_chr3_023670.1	359	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	97	139	NA	NA	False
+CMJ_chr3_023670.1	359	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	109	119	NA	NA	False
+CMJ_chr3_023670.1	359	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	215	236	NA	NA	False
+CMJ_chr3_023670.1	359	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	224	236	NA	NA	False
+CMJ_chr3_023670.1	359	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	280	346	NA	30.549458	True
+CMJ_chr3_023670.1	359	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	283	344	1.83e-26	NA	False
+CMJ_chr3_023670.1	359	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	271	345	9.7e-30	104.2	False
+CMJ_chr3_023670.1	359	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	283	344	NA	0.9988561	False
+CMJ_chr3_023670.1	359	InterPro-N	37.3	PF10533	NA	NA	NA	NA	NA	NA	NA	238	283	NA	0.9998074	False
+CMJ_chr3_023670.1	359	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	287	343	NA	0.9999514	False
+CMJ_chr3_023670.1	359	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	280	346	NA	0.99793255	False
+CMJ_chr3_023670.1	359	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	270	346	NA	0.99757135	False
+CMJ_chr3_023670.1	359	InterPro-N	19.0	PTHR31282	NA	NA	NA	NA	NA	NA	NA	26	346	NA	0.9999015	False
+CMJ_chr3_023670.1	359	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	285	345	NA	0.9999149	False
+CMJ_chr3_023670.1	359	PANTHER	19.0	PTHR31282	NA	WRKY TRANSCRIPTION FACTOR 21-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	26	344	4e-47	171.7	True
+CMJ_chr3_023670.1	359	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	285	345	1.7e-37	140.5	False
+CMJ_chr3_023670.1	359	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000004	NA	WRKY transcription factor 65	Region	NA	NA	NA	NA	269	346	5.8e-45	152.5	False
+CMJ_chr5_041190.1	602	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000002	NA	probable WRKY transcription factor 31	Region	NA	NA	NA	NA	231	308	1.6e-51	174.1	False
+CMJ_chr5_041190.1	602	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	231	308	6.4e-32	111.2	True
+CMJ_chr5_041190.1	602	COILS	2.2.1	Coil	NA	Coil	Region	NA	NA	NA	NA	64	91	NA	NA	False
+CMJ_chr5_041190.1	602	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	1	11	NA	NA	False
+CMJ_chr5_041190.1	602	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	1	85	NA	NA	False
+CMJ_chr5_041190.1	602	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	22	40	NA	NA	False
+CMJ_chr5_041190.1	602	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	49	62	NA	NA	False
+CMJ_chr5_041190.1	602	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	63	85	NA	NA	False
+CMJ_chr5_041190.1	602	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	136	159	NA	NA	False
+CMJ_chr5_041190.1	602	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	143	159	NA	NA	False
+CMJ_chr5_041190.1	602	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	180	219	NA	NA	False
+CMJ_chr5_041190.1	602	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	184	194	NA	NA	False
+CMJ_chr5_041190.1	602	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	560	580	NA	NA	False
+CMJ_chr5_041190.1	602	PANTHER	19.0	PTHR31429	NA	WRKY TRANSCRIPTION FACTOR 36-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	60	518	3.8e-110	380.5	True
+CMJ_chr5_041190.1	602	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	247	305	6.3e-22	88.9	False
+CMJ_chr5_041190.1	602	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	241	307	NA	28.483524	False
+CMJ_chr5_041190.1	602	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	246	306	1.6e-36	137.3	False
+CMJ_chr5_041190.1	602	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	239	307	3.01e-27	NA	False
+CMJ_chr5_041190.1	602	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	246	306	NA	0.9999741	False
+CMJ_chr5_041190.1	602	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	239	307	NA	0.9989829	False
+CMJ_chr5_041190.1	602	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	247	305	NA	0.999924	False
+CMJ_chr5_041190.1	602	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	241	307	NA	0.9991578	False
+CMJ_chr5_041190.1	602	InterPro-N	19.0	PTHR31429	NA	NA	NA	NA	NA	NA	NA	56	517	NA	0.9998623	False
+CMJ_chr5_041190.1	602	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	231	308	NA	0.99910533	False
+CMJ_chr6_010730.1	565	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	221	277	4.5e-23	92.5	False
+CMJ_chr6_010730.1	565	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	390	447	8e-23	91.7	False
+CMJ_chr6_010730.1	565	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	132	176	NA	NA	False
+CMJ_chr6_010730.1	565	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	195	226	NA	NA	False
+CMJ_chr6_010730.1	565	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	195	214	NA	NA	False
+CMJ_chr6_010730.1	565	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	215	225	NA	NA	False
+CMJ_chr6_010730.1	565	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	269	363	NA	NA	False
+CMJ_chr6_010730.1	565	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	280	295	NA	NA	False
+CMJ_chr6_010730.1	565	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	296	327	NA	NA	False
+CMJ_chr6_010730.1	565	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	351	360	NA	NA	False
+CMJ_chr6_010730.1	565	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	445	471	NA	NA	False
+CMJ_chr6_010730.1	565	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	544	565	NA	NA	False
+CMJ_chr6_010730.1	565	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	546	555	NA	NA	False
+CMJ_chr6_010730.1	565	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	215	279	NA	23.008804	False
+CMJ_chr6_010730.1	565	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	384	449	NA	38.595116	False
+CMJ_chr6_010730.1	565	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	381	449	2.75e-29	NA	True
+CMJ_chr6_010730.1	565	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	216	279	9.94e-25	NA	False
+CMJ_chr6_010730.1	565	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	207	280	4.7e-27	95.6	True
+CMJ_chr6_010730.1	565	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	376	442	1.8e-36	125.7	False
+CMJ_chr6_010730.1	565	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	381	449	NA	0.9988149	False
+CMJ_chr6_010730.1	565	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	216	279	NA	0.9987972	False
+CMJ_chr6_010730.1	565	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	221	277	NA	0.9998792	False
+CMJ_chr6_010730.1	565	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	390	447	NA	0.99979395	False
+CMJ_chr6_010730.1	565	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	215	279	NA	0.9998891	False
+CMJ_chr6_010730.1	565	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	384	449	NA	0.99979514	False
+CMJ_chr6_010730.1	565	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	206	280	NA	0.9995688	False
+CMJ_chr6_010730.1	565	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	376	444	NA	0.9991411	False
+CMJ_chr6_010730.1	565	InterPro-N	19.0	PTHR31221	NA	NA	NA	NA	NA	NA	NA	261	482	NA	0.99310833	False
+CMJ_chr6_010730.1	565	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	220	278	NA	0.9999873	False
+CMJ_chr6_010730.1	565	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	389	448	NA	0.9999769	False
+CMJ_chr6_010730.1	565	PANTHER	19.0	PTHR31221	NA	WRKY TRANSCRIPTION FACTOR PROTEIN 1-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	262	486	1.3e-62	224.1	True
+CMJ_chr6_010730.1	565	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	220	278	2.7e-36	136.6	False
+CMJ_chr6_010730.1	565	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	389	448	5.5e-39	145.5	False
+CMJ_chr6_010730.1	565	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000006	NA	WRKY transcription factor	Region	NA	NA	NA	NA	208	280	1.6e-35	122.7	False
+CMJ_chr6_010730.1	565	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000001	NA	WRKY transcription factor 33	Region	NA	NA	NA	NA	376	442	3e-45	153.8	False
+CMJ_chr7_007480.1	193	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000003	NA	WRKY transcription factor 57	Region	NA	NA	NA	NA	100	174	1.7e-40	138.5	False
+CMJ_chr7_007480.1	193	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	95	173	1.1e-33	116.8	True
+CMJ_chr7_007480.1	193	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	64	98	NA	NA	False
+CMJ_chr7_007480.1	193	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	65	82	NA	NA	False
+CMJ_chr7_007480.1	193	PANTHER	19.0	PTHR31221	NA	WRKY TRANSCRIPTION FACTOR PROTEIN 1-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	40	188	1.4e-49	181.4	True
+CMJ_chr7_007480.1	193	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	115	172	8.6e-24	94.8	False
+CMJ_chr7_007480.1	193	Phobius	1.01	SIGNAL_PEPTIDE	NA	Signal Peptide	Region	NA	NA	NA	NA	1	23	NA	NA	False
+CMJ_chr7_007480.1	193	Phobius	1.01	SIGNAL_PEPTIDE_N_REGION	NA	Signal peptide N-region	Region	NA	NA	NA	NA	1	7	NA	NA	False
+CMJ_chr7_007480.1	193	Phobius	1.01	SIGNAL_PEPTIDE_H_REGION	NA	Signal peptide H-region	Region	NA	NA	NA	NA	8	18	NA	NA	False
+CMJ_chr7_007480.1	193	Phobius	1.01	SIGNAL_PEPTIDE_C_REGION	NA	Signal peptide C-region	Region	NA	NA	NA	NA	19	23	NA	NA	False
+CMJ_chr7_007480.1	193	Phobius	1.01	NON_CYTOPLASMIC_DOMAIN	NA	Non cytoplasmic domain	Region	NA	NA	NA	NA	24	193	NA	NA	False
+CMJ_chr7_007480.1	193	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	109	174	NA	30.124792	False
+CMJ_chr7_007480.1	193	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	114	173	1.1e-38	144.5	False
+CMJ_chr7_007480.1	193	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	106	173	1.07e-29	NA	False
+CMJ_chr7_007480.1	193	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	99	173	NA	0.9990745	False
+CMJ_chr7_007480.1	193	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	114	173	NA	0.99996513	False
+CMJ_chr7_007480.1	193	InterPro-N	19.0	PTHR31221	NA	NA	NA	NA	NA	NA	NA	36	188	NA	0.99998707	False
+CMJ_chr7_007480.1	193	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	109	174	NA	0.999958	False
+CMJ_chr7_007480.1	193	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	106	173	NA	0.99620736	False
+CMJ_chr7_007480.1	193	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	115	172	NA	0.9999875	False
+CMJ_chr2_002560.1	317	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000003	NA	WRKY transcription factor 57	Region	NA	NA	NA	NA	158	232	2e-44	151.1	False
+CMJ_chr2_002560.1	317	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	156	233	1.1e-34	120.1	True
+CMJ_chr2_002560.1	317	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	90	162	NA	NA	False
+CMJ_chr2_002560.1	317	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	98	107	NA	NA	False
+CMJ_chr2_002560.1	317	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	111	146	NA	NA	False
+CMJ_chr2_002560.1	317	PANTHER	19.0	PTHR31221	NA	WRKY TRANSCRIPTION FACTOR PROTEIN 1-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	89	261	1.5e-54	197.7	True
+CMJ_chr2_002560.1	317	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	173	230	6.5e-24	95.2	False
+CMJ_chr2_002560.1	317	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	167	232	NA	31.708673	False
+CMJ_chr2_002560.1	317	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	172	231	1.7e-39	147.2	False
+CMJ_chr2_002560.1	317	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	164	232	7.85e-30	NA	False
+CMJ_chr2_002560.1	317	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	172	231	NA	0.9999899	False
+CMJ_chr2_002560.1	317	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	164	232	NA	0.99727654	False
+CMJ_chr2_002560.1	317	InterPro-N	19.0	PTHR31221	NA	NA	NA	NA	NA	NA	NA	88	255	NA	0.99808335	False
+CMJ_chr2_002560.1	317	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	156	233	NA	0.9983017	False
+CMJ_chr2_002560.1	317	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	167	232	NA	0.99994665	False
+CMJ_chr2_002560.1	317	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	173	230	NA	0.9999071	False
+CMJ_chr4_007220.3	553	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	134	190	4.6e-23	92.5	False
+CMJ_chr4_007220.3	553	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	347	404	3.3e-22	89.8	False
+CMJ_chr4_007220.3	553	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	98	139	NA	NA	False
+CMJ_chr4_007220.3	553	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	183	203	NA	NA	False
+CMJ_chr4_007220.3	553	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	217	313	NA	NA	False
+CMJ_chr4_007220.3	553	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	259	272	NA	NA	False
+CMJ_chr4_007220.3	553	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	400	419	NA	NA	False
+CMJ_chr4_007220.3	553	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	410	419	NA	NA	False
+CMJ_chr4_007220.3	553	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	128	192	NA	22.848122	False
+CMJ_chr4_007220.3	553	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	341	406	NA	38.663979	False
+CMJ_chr4_007220.3	553	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	338	406	1.11e-28	NA	True
+CMJ_chr4_007220.3	553	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	133	192	1.83e-25	NA	False
+CMJ_chr4_007220.3	553	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	127	193	9.6e-28	97.8	True
+CMJ_chr4_007220.3	553	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	333	399	6.8e-36	123.8	False
+CMJ_chr4_007220.3	553	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	132	192	NA	0.99729866	False
+CMJ_chr4_007220.3	553	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	338	406	NA	0.9950289	False
+CMJ_chr4_007220.3	553	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	134	190	NA	0.9999466	False
+CMJ_chr4_007220.3	553	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	347	404	NA	0.99984175	False
+CMJ_chr4_007220.3	553	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	341	406	NA	0.9999439	False
+CMJ_chr4_007220.3	553	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	129	192	NA	0.9997892	False
+CMJ_chr4_007220.3	553	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	125	193	NA	0.9982906	False
+CMJ_chr4_007220.3	553	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	333	401	NA	0.9965237	False
+CMJ_chr4_007220.3	553	InterPro-N	19.0	PTHR31221	NA	NA	NA	NA	NA	NA	NA	191	426	NA	0.9995645	False
+CMJ_chr4_007220.3	553	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	133	191	NA	0.99996567	False
+CMJ_chr4_007220.3	553	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	346	405	NA	0.99995255	False
+CMJ_chr4_007220.3	553	PANTHER	19.0	PTHR31221	NA	WRKY TRANSCRIPTION FACTOR PROTEIN 1-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	176	422	2.7e-61	219.8	True
+CMJ_chr4_007220.3	553	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	133	191	6.8e-36	135.2	False
+CMJ_chr4_007220.3	553	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	346	405	1.5e-37	140.7	False
+CMJ_chr4_007220.3	553	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000006	NA	WRKY transcription factor	Region	NA	NA	NA	NA	123	193	1.6e-35	122.7	False
+CMJ_chr4_007220.3	553	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000001	NA	WRKY transcription factor 33	Region	NA	NA	NA	NA	333	399	2.9e-45	153.8	False
+CMJ_chr1_002910.1	230	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000003	NA	WRKY transcription factor 57	Region	NA	NA	NA	NA	138	212	1.6e-40	138.6	False
+CMJ_chr1_002910.1	230	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	139	205	4.2e-32	111.7	False
+CMJ_chr1_002910.1	230	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	204	216	NA	NA	False
+CMJ_chr1_002910.1	230	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	204	223	NA	NA	False
+CMJ_chr1_002910.1	230	PANTHER	19.0	PTHR31221	NA	WRKY TRANSCRIPTION FACTOR PROTEIN 1-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	112	222	1.7e-47	174.6	True
+CMJ_chr1_002910.1	230	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	153	209	2.2e-22	90.3	False
+CMJ_chr1_002910.1	230	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	147	212	NA	29.355806	False
+CMJ_chr1_002910.1	230	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	152	211	9.8e-37	138.0	False
+CMJ_chr1_002910.1	230	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	144	211	1.27e-28	NA	True
+CMJ_chr1_002910.1	230	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	153	209	NA	0.9999953	False
+CMJ_chr1_002910.1	230	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	152	211	NA	0.9999638	False
+CMJ_chr1_002910.1	230	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	139	205	NA	0.9993009	False
+CMJ_chr1_002910.1	230	InterPro-N	19.0	PTHR31221	NA	NA	NA	NA	NA	NA	NA	98	219	NA	0.99998397	False
+CMJ_chr1_002910.1	230	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	144	211	NA	0.9975373	False
+CMJ_chr1_002910.1	230	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	147	212	NA	0.99996436	False
+CMJ_chr5_043250.1	336	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000009	NA	WRKY transcription factor 53	Region	NA	NA	NA	NA	107	184	1.4e-43	148.4	False
+CMJ_chr5_043250.1	336	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	106	183	1.4e-28	100.5	True
+CMJ_chr5_043250.1	336	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	64	107	NA	NA	False
+CMJ_chr5_043250.1	336	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	81	96	NA	NA	False
+CMJ_chr5_043250.1	336	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	184	215	NA	NA	False
+CMJ_chr5_043250.1	336	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	194	209	NA	NA	False
+CMJ_chr5_043250.1	336	PANTHER	19.0	PTHR32096	NA	WRKY TRANSCRIPTION FACTOR 30-RELATED-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	8	277	1.2e-50	184.9	True
+CMJ_chr5_043250.1	336	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	122	181	1.3e-23	94.2	False
+CMJ_chr5_043250.1	336	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	116	179	NA	21.952885	False
+CMJ_chr5_043250.1	336	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	121	183	1.6e-38	143.9	False
+CMJ_chr5_043250.1	336	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	120	181	1.22e-25	NA	False
+CMJ_chr5_043250.1	336	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	116	183	NA	0.99998707	False
+CMJ_chr5_043250.1	336	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	122	181	NA	0.99999076	False
+CMJ_chr5_043250.1	336	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	107	184	NA	0.9984255	False
+CMJ_chr5_043250.1	336	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	121	183	NA	0.987224	False
+CMJ_chr5_043250.1	336	InterPro-N	19.0	PTHR32096	NA	NA	NA	NA	NA	NA	NA	7	262	NA	0.99980956	False
+CMJ_chr5_043250.1	336	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	121	183	NA	0.99998516	False
+CMJ_chr4_009630.1	547	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	294	351	4.1e-22	89.5	False
+CMJ_chr4_009630.1	547	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	255	277	NA	NA	False
+CMJ_chr4_009630.1	547	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	255	275	NA	NA	False
+CMJ_chr4_009630.1	547	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	521	547	NA	NA	False
+CMJ_chr4_009630.1	547	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	521	532	NA	NA	False
+CMJ_chr4_009630.1	547	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	287	353	NA	29.998541	False
+CMJ_chr4_009630.1	547	COILS	2.2.1	Coil	NA	Coil	Region	NA	NA	NA	NA	109	143	NA	NA	False
+CMJ_chr4_009630.1	547	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	285	353	2.09e-27	NA	False
+CMJ_chr4_009630.1	547	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	277	354	5.7e-33	114.5	True
+CMJ_chr4_009630.1	547	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	285	353	NA	0.9988913	False
+CMJ_chr4_009630.1	547	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	294	351	NA	0.9999744	False
+CMJ_chr4_009630.1	547	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	287	353	NA	0.99977183	False
+CMJ_chr4_009630.1	547	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	277	354	NA	0.9985642	False
+CMJ_chr4_009630.1	547	InterPro-N	19.0	PTHR31429	NA	NA	NA	NA	NA	NA	NA	89	523	NA	0.9999486	False
+CMJ_chr4_009630.1	547	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	292	352	NA	0.9999795	False
+CMJ_chr4_009630.1	547	PANTHER	19.0	PTHR31429	NA	WRKY TRANSCRIPTION FACTOR 36-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	89	522	2.3e-109	377.9	True
+CMJ_chr4_009630.1	547	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	292	352	5.7e-36	135.5	False
+CMJ_chr4_009630.1	547	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000002	NA	probable WRKY transcription factor 31	Region	NA	NA	NA	NA	277	354	2.7e-49	167.0	False
+CMJ_chr2_030690.1	127	Pfam	38.2	PF03101	FAR1	FAR1 DNA-binding domain	Domain	IPR004330	FAR1_DNA_bnd_dom	FAR1, DNA binding domain	Domain	28	114	2.6e-27	106.7	True
+CMJ_chr2_030690.1	127	InterPro-N	37.3	PF03101	NA	NA	NA	NA	NA	NA	NA	29	113	NA	0.9999565	False
+CMJ_chr2_030690.1	127	InterPro-N	19.0	PTHR46328	NA	NA	NA	NA	NA	NA	NA	5	122	NA	0.99984145	False
+CMJ_chr2_030690.1	127	PANTHER	19.0	PTHR46328	NA	FAR-RED IMPAIRED RESPONSIVE (FAR1) FAMILY PROTEIN-RELATED	Family	NA	NA	NA	NA	9	120	2e-35	134.4	True
+CMJ_chr8_009190.1	359	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	291	347	9.7e-24	94.7	False
+CMJ_chr8_009190.1	359	Pfam	38.2	PF10533	Plant_zn_clust	Plant zinc cluster domain	Domain	IPR018872	Zn-cluster-dom	Zn-cluster domain	Domain	241	287	3.1e-14	64.1	True
+CMJ_chr8_009190.1	359	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	104	144	NA	NA	False
+CMJ_chr8_009190.1	359	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	130	139	NA	NA	False
+CMJ_chr8_009190.1	359	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	284	350	NA	29.82638	True
+CMJ_chr8_009190.1	359	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	287	348	8.37e-27	NA	False
+CMJ_chr8_009190.1	359	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	275	349	1.4e-30	106.9	False
+CMJ_chr8_009190.1	359	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	287	349	NA	0.9989074	False
+CMJ_chr8_009190.1	359	InterPro-N	37.3	PF10533	NA	NA	NA	NA	NA	NA	NA	241	287	NA	0.9995855	False
+CMJ_chr8_009190.1	359	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	291	347	NA	0.9999744	False
+CMJ_chr8_009190.1	359	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	284	350	NA	0.9997958	False
+CMJ_chr8_009190.1	359	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	274	350	NA	0.9987587	False
+CMJ_chr8_009190.1	359	InterPro-N	19.0	PTHR31282	NA	NA	NA	NA	NA	NA	NA	5	356	NA	0.9998357	False
+CMJ_chr8_009190.1	359	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	289	349	NA	0.99995697	False
+CMJ_chr8_009190.1	359	PANTHER	19.0	PTHR31282	NA	WRKY TRANSCRIPTION FACTOR 21-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	2	354	4e-48	175.0	True
+CMJ_chr8_009190.1	359	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	289	349	1.8e-37	140.5	False
+CMJ_chr8_009190.1	359	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000004	NA	WRKY transcription factor 65	Region	NA	NA	NA	NA	273	350	1.1e-45	154.8	False
+CMJ_chr5_019500.1	404	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	146	206	2.4e-20	83.8	False
+CMJ_chr5_019500.1	404	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	331	353	0.023	26.2	False
+CMJ_chr5_019500.1	404	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	140	208	NA	20.564119	False
+CMJ_chr5_019500.1	404	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	325	404	NA	10.188551	True
+CMJ_chr5_019500.1	404	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	141	206	4.45e-23	NA	False
+CMJ_chr5_019500.1	404	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	328	353	6.93e-07	NA	False
+CMJ_chr5_019500.1	404	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	137	208	1.4e-23	84.4	True
+CMJ_chr5_019500.1	404	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	322	371	2.1e-07	32.6	False
+CMJ_chr5_019500.1	404	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	324	363	NA	0.9996992	False
+CMJ_chr5_019500.1	404	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	140	207	NA	0.9980474	False
+CMJ_chr5_019500.1	404	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	146	206	NA	0.9999627	False
+CMJ_chr5_019500.1	404	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	330	357	NA	0.9993096	False
+CMJ_chr5_019500.1	404	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	144	207	NA	0.99997306	False
+CMJ_chr5_019500.1	404	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	324	367	NA	0.9980879	False
+CMJ_chr5_019500.1	404	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	135	208	NA	0.99988467	False
+CMJ_chr5_019500.1	404	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	314	373	NA	0.9981207	False
+CMJ_chr5_019500.1	404	InterPro-N	19.0	PTHR32096	NA	NA	NA	NA	NA	NA	NA	50	221	NA	0.6809025	False
+CMJ_chr5_019500.1	404	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	145	207	NA	0.9999929	False
+CMJ_chr5_019500.1	404	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	327	377	NA	0.9649074	False
+CMJ_chr5_019500.1	404	PANTHER	19.0	PTHR31282	NA	WRKY TRANSCRIPTION FACTOR 21-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	103	220	7.5e-28	109.0	True
+CMJ_chr5_019500.1	404	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	145	207	8.6e-33	124.9	False
+CMJ_chr5_019500.1	404	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	330	377	0.00035	11.2	False
+CMJ_chr2_017020.1	488	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	270	327	3.2e-23	93.0	False
+CMJ_chr2_017020.1	488	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	98	154	6.6e-18	76.0	False
+CMJ_chr2_017020.1	488	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	1	77	NA	NA	False
+CMJ_chr2_017020.1	488	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	28	40	NA	NA	False
+CMJ_chr2_017020.1	488	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	62	77	NA	NA	False
+CMJ_chr2_017020.1	488	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	177	252	NA	NA	False
+CMJ_chr2_017020.1	488	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	222	234	NA	NA	False
+CMJ_chr2_017020.1	488	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	322	488	NA	NA	False
+CMJ_chr2_017020.1	488	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	332	349	NA	NA	False
+CMJ_chr2_017020.1	488	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	378	389	NA	NA	False
+CMJ_chr2_017020.1	488	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	414	424	NA	NA	False
+CMJ_chr2_017020.1	488	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	437	457	NA	NA	False
+CMJ_chr2_017020.1	488	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	465	478	NA	NA	False
+CMJ_chr2_017020.1	488	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	479	488	NA	NA	False
+CMJ_chr2_017020.1	488	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	92	156	NA	19.049103	False
+CMJ_chr2_017020.1	488	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	264	329	NA	35.622471	False
+CMJ_chr2_017020.1	488	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	261	329	3.27e-29	NA	True
+CMJ_chr2_017020.1	488	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	93	155	5.23e-21	NA	False
+CMJ_chr2_017020.1	488	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	83	157	3.1e-22	80.1	True
+CMJ_chr2_017020.1	488	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	257	322	1.2e-33	116.7	False
+CMJ_chr2_017020.1	488	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	95	156	NA	0.9987991	False
+CMJ_chr2_017020.1	488	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	261	329	NA	0.9961961	False
+CMJ_chr2_017020.1	488	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	98	154	NA	0.9999203	False
+CMJ_chr2_017020.1	488	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	270	327	NA	0.9998982	False
+CMJ_chr2_017020.1	488	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	263	329	NA	0.99961984	False
+CMJ_chr2_017020.1	488	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	94	156	NA	0.99915147	False
+CMJ_chr2_017020.1	488	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	85	157	NA	0.99914706	False
+CMJ_chr2_017020.1	488	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	255	329	NA	0.99896294	False
+CMJ_chr2_017020.1	488	InterPro-N	19.0	PTHR31221	NA	NA	NA	NA	NA	NA	NA	40	158	NA	0.9907233	False
+CMJ_chr2_017020.1	488	InterPro-N	19.0	PTHR31221	NA	NA	NA	NA	NA	NA	NA	188	385	NA	0.9355929	False
+CMJ_chr2_017020.1	488	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	97	155	NA	0.9999908	False
+CMJ_chr2_017020.1	488	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	269	328	NA	0.9998674	False
+CMJ_chr2_017020.1	488	PANTHER	19.0	PTHR31221	NA	WRKY TRANSCRIPTION FACTOR PROTEIN 1-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	172	349	4.2e-44	163.5	True
+CMJ_chr2_017020.1	488	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	97	155	1.4e-27	107.6	False
+CMJ_chr2_017020.1	488	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	269	328	3e-38	143.1	False
+CMJ_chr2_017020.1	488	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000006	NA	WRKY transcription factor	Region	NA	NA	NA	NA	85	157	7.6e-28	98.1	False
+CMJ_chr2_017020.1	488	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000003	NA	WRKY transcription factor 57	Region	NA	NA	NA	NA	256	329	2.8e-33	115.4	False
+CMJ_chr9_009270.1	261	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	66	123	4.2e-23	92.6	False
+CMJ_chr9_009270.1	261	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	113	223	NA	NA	False
+CMJ_chr9_009270.1	261	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	128	145	NA	NA	False
+CMJ_chr9_009270.1	261	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	149	160	NA	NA	False
+CMJ_chr9_009270.1	261	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	161	174	NA	NA	False
+CMJ_chr9_009270.1	261	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	195	207	NA	NA	False
+CMJ_chr9_009270.1	261	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	208	223	NA	NA	False
+CMJ_chr9_009270.1	261	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	59	125	NA	32.385841	False
+CMJ_chr9_009270.1	261	COILS	2.2.1	Coil	NA	Coil	Region	NA	NA	NA	NA	193	213	NA	NA	False
+CMJ_chr9_009270.1	261	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	58	125	1.96e-26	NA	False
+CMJ_chr9_009270.1	261	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	44	126	2e-29	103.2	True
+CMJ_chr9_009270.1	261	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	59	125	NA	0.99762034	False
+CMJ_chr9_009270.1	261	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	66	123	NA	0.99999607	False
+CMJ_chr9_009270.1	261	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	58	125	NA	0.9999723	False
+CMJ_chr9_009270.1	261	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	47	125	NA	0.99524695	False
+CMJ_chr9_009270.1	261	InterPro-N	19.0	PTHR32096	NA	NA	NA	NA	NA	NA	NA	44	231	NA	0.99996305	False
+CMJ_chr9_009270.1	261	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	64	124	NA	0.9999475	False
+CMJ_chr9_009270.1	261	Phobius	1.01	CYTOPLASMIC_DOMAIN	NA	Cytoplasmic domain	Region	NA	NA	NA	NA	1	11	NA	NA	False
+CMJ_chr9_009270.1	261	Phobius	1.01	TRANSMEMBRANE	NA	Transmembrane region	Region	NA	NA	NA	NA	12	31	NA	NA	False
+CMJ_chr9_009270.1	261	Phobius	1.01	NON_CYTOPLASMIC_DOMAIN	NA	Non cytoplasmic domain	Region	NA	NA	NA	NA	32	261	NA	NA	False
+CMJ_chr9_009270.1	261	PANTHER	19.0	PTHR32096	NA	WRKY TRANSCRIPTION FACTOR 30-RELATED-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	46	227	1.2e-60	217.7	True
+CMJ_chr9_009270.1	261	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	64	124	2.4e-36	136.8	False
+CMJ_chr9_009270.1	261	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000007	NA	WRKY transcription factor 22	Region	NA	NA	NA	NA	47	118	7.7e-41	139.4	False
+CMJ_chr7_013430.1	341	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000003	NA	WRKY transcription factor 57	Region	NA	NA	NA	NA	179	253	8.1e-44	149.2	False
+CMJ_chr7_013430.1	341	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	179	254	1.1e-33	116.9	True
+CMJ_chr7_013430.1	341	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	90	183	NA	NA	False
+CMJ_chr7_013430.1	341	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	116	132	NA	NA	False
+CMJ_chr7_013430.1	341	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	145	156	NA	NA	False
+CMJ_chr7_013430.1	341	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	166	175	NA	NA	False
+CMJ_chr7_013430.1	341	PANTHER	19.0	PTHR31221	NA	WRKY TRANSCRIPTION FACTOR PROTEIN 1-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	113	303	3.3e-55	199.9	True
+CMJ_chr7_013430.1	341	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	194	251	4.1e-23	92.7	False
+CMJ_chr7_013430.1	341	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	188	253	NA	32.39732	False
+CMJ_chr7_013430.1	341	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	193	252	6.7e-38	141.9	False
+CMJ_chr7_013430.1	341	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	186	253	6.28e-29	NA	False
+CMJ_chr7_013430.1	341	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	186	253	NA	0.99380225	False
+CMJ_chr7_013430.1	341	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	178	254	NA	0.9988145	False
+CMJ_chr7_013430.1	341	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	193	252	NA	0.99998945	False
+CMJ_chr7_013430.1	341	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	188	253	NA	0.99995774	False
+CMJ_chr7_013430.1	341	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	194	251	NA	0.99984926	False
+CMJ_chr7_013430.1	341	InterPro-N	19.0	PTHR31221	NA	NA	NA	NA	NA	NA	NA	106	304	NA	0.999893	False
+CMJ_chr5_000500.1	243	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	170	226	4.3e-22	89.4	False
+CMJ_chr5_000500.1	243	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	118	141	NA	NA	False
+CMJ_chr5_000500.1	243	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	164	226	NA	29.493536	False
+CMJ_chr5_000500.1	243	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	161	227	1.7e-28	NA	False
+CMJ_chr5_000500.1	243	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	155	229	5.4e-32	111.4	True
+CMJ_chr5_000500.1	243	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	161	227	NA	0.9962213	False
+CMJ_chr5_000500.1	243	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	170	226	NA	0.9999916	False
+CMJ_chr5_000500.1	243	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	164	227	NA	0.9999823	False
+CMJ_chr5_000500.1	243	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	156	224	NA	0.9987224	False
+CMJ_chr5_000500.1	243	InterPro-N	19.0	PTHR31221	NA	NA	NA	NA	NA	NA	NA	82	229	NA	0.99997276	False
+CMJ_chr5_000500.1	243	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	169	228	NA	0.9999508	False
+CMJ_chr5_000500.1	243	PANTHER	19.0	PTHR31221	NA	WRKY TRANSCRIPTION FACTOR PROTEIN 1-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	93	229	8.4e-49	178.8	True
+CMJ_chr5_000500.1	243	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	169	228	1.9e-37	140.4	False
+CMJ_chr5_000500.1	243	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000003	NA	WRKY transcription factor 57	Region	NA	NA	NA	NA	155	229	7.8e-42	142.8	False
+CMJ_chr4_005080.1	159	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000003	NA	WRKY transcription factor 57	Region	NA	NA	NA	NA	84	158	3.4e-38	131.2	False
+CMJ_chr4_005080.1	159	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	85	151	1.3e-32	113.3	True
+CMJ_chr4_005080.1	159	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	1	20	NA	NA	False
+CMJ_chr4_005080.1	159	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	56	84	NA	NA	False
+CMJ_chr4_005080.1	159	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	61	74	NA	NA	False
+CMJ_chr4_005080.1	159	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	75	84	NA	NA	False
+CMJ_chr4_005080.1	159	PANTHER	19.0	PTHR31221	NA	WRKY TRANSCRIPTION FACTOR PROTEIN 1-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	26	156	6.8e-43	159.5	True
+CMJ_chr4_005080.1	159	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	99	156	1.1e-22	91.3	False
+CMJ_chr4_005080.1	159	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	93	158	NA	29.378761	False
+CMJ_chr4_005080.1	159	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	98	157	1.1e-36	137.9	False
+CMJ_chr4_005080.1	159	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	91	157	1.7e-28	NA	False
+CMJ_chr4_005080.1	159	InterPro-N	19.0	PTHR31221	NA	NA	NA	NA	NA	NA	NA	61	158	NA	0.99996877	False
+CMJ_chr4_005080.1	159	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	91	157	NA	0.99917966	False
+CMJ_chr4_005080.1	159	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	93	158	NA	0.9999812	False
+CMJ_chr4_005080.1	159	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	98	157	NA	0.99998397	False
+CMJ_chr4_005080.1	159	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	84	151	NA	0.9998071	False
+CMJ_chr4_005080.1	159	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	99	156	NA	0.9999939	False
+CMJ_chr9_012700.1	371	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	193	250	4.1e-24	95.9	False
+CMJ_chr9_012700.1	371	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	73	183	NA	NA	False
+CMJ_chr9_012700.1	371	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	79	99	NA	NA	False
+CMJ_chr9_012700.1	371	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	107	149	NA	NA	False
+CMJ_chr9_012700.1	371	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	164	174	NA	NA	False
+CMJ_chr9_012700.1	371	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	187	252	NA	33.269604	False
+CMJ_chr9_012700.1	371	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	184	252	2.62e-29	NA	True
+CMJ_chr9_012700.1	371	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	179	245	1.5e-34	119.5	False
+CMJ_chr9_012700.1	371	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	184	252	NA	0.9976733	False
+CMJ_chr9_012700.1	371	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	193	250	NA	0.99996865	False
+CMJ_chr9_012700.1	371	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	187	252	NA	0.99996966	False
+CMJ_chr9_012700.1	371	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	177	253	NA	0.9986599	False
+CMJ_chr9_012700.1	371	InterPro-N	19.0	PTHR31221	NA	NA	NA	NA	NA	NA	NA	110	291	NA	0.99998426	False
+CMJ_chr9_012700.1	371	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	192	251	NA	0.99999356	False
+CMJ_chr9_012700.1	371	PANTHER	19.0	PTHR31221	NA	WRKY TRANSCRIPTION FACTOR PROTEIN 1-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	109	295	5.5e-56	202.4	True
+CMJ_chr9_012700.1	371	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	192	251	4e-40	149.3	False
+CMJ_chr9_012700.1	371	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000003	NA	WRKY transcription factor 57	Region	NA	NA	NA	NA	178	252	2.7e-43	147.5	False
+CMJ_chr8_008560.1	407	Pfam	38.2	PF25598	ARM_PUB	Plant U-box protein ARM repeat region	Repeat	IPR058678	ARM_PUB	U-box domain-containing protein-like, ARM repeat region	Domain	100	404	1.1e-82	289.4	False
+CMJ_chr8_008560.1	407	Pfam	38.2	PF04564	U-box	U-box domain	Domain	IPR003613	Ubox_domain	U-box domain	Domain	6	78	1.4e-13	62.1	False
+CMJ_chr8_008560.1	407	PROSITE profiles	2026_01	PS51698	U_BOX	U-box domain profile	Domain	IPR003613	Ubox_domain	U-box domain	Domain	5	83	NA	33.173141	False
+CMJ_chr8_008560.1	407	CDD	3.21	cd16664	RING-Ubox_PUB	U-box domain, a modified RING finger, found in Arabidopsis plant U-box proteins (AtPUB) and similar proteins	Domain	IPR045210	RING-Ubox_PUB	PUB protein, U-box domain, plant	Domain	7	59	3.08788e-26	98.0188	False
+CMJ_chr8_008560.1	407	SUPERFAMILY	1.75	SSF57850	NA	RING/U-box	Homologous_superfamily	NA	NA	NA	NA	3	84	2.17e-25	NA	False
+CMJ_chr8_008560.1	407	SUPERFAMILY	1.75	SSF48371	NA	ARM repeat	Homologous_superfamily	IPR016024	ARM-type_fold	Armadillo-type fold	Homologous_superfamily	100	384	7.3e-18	NA	False
+CMJ_chr8_008560.1	407	CATH-Gene3D	4.3.0	G3DSA:3.30.40.10	NA	Zinc/RING finger domain, C3HC4 (zinc finger)	Homologous_superfamily	IPR013083	Znf_RING/FYVE/PHD	Zinc finger, RING/FYVE/PHD-type	Homologous_superfamily	1	82	4.1e-26	92.8	True
+CMJ_chr8_008560.1	407	CATH-Gene3D	4.3.0	G3DSA:1.25.10.10	NA	Leucine-rich Repeat Variant	Homologous_superfamily	IPR011989	ARM-like	Armadillo-like helical	Homologous_superfamily	83	393	6.7e-19	69.7	True
+CMJ_chr8_008560.1	407	InterPro-N	1.75	SSF48371	NA	NA	NA	NA	NA	NA	NA	100	383	NA	0.9993989	False
+CMJ_chr8_008560.1	407	InterPro-N	1.75	SSF57850	NA	NA	NA	NA	NA	NA	NA	2	80	NA	0.9977399	False
+CMJ_chr8_008560.1	407	InterPro-N	37.3	PF04564	NA	NA	NA	NA	NA	NA	NA	6	77	NA	0.999991	False
+CMJ_chr8_008560.1	407	InterPro-N	2025_01	PS51698	NA	NA	NA	NA	NA	NA	NA	5	82	NA	0.9998766	False
+CMJ_chr8_008560.1	407	InterPro-N	3.21	cd16664	NA	NA	NA	NA	NA	NA	NA	7	57	NA	0.99993294	False
+CMJ_chr8_008560.1	407	InterPro-N	4.3.0	G3DSA:1.25.10.10	NA	NA	NA	NA	NA	NA	NA	90	392	NA	0.99963164	False
+CMJ_chr8_008560.1	407	InterPro-N	4.3.0	G3DSA:3.30.40.10	NA	NA	NA	NA	NA	NA	NA	1	84	NA	0.9962138	False
+CMJ_chr8_008560.1	407	InterPro-N	19.0	PTHR22849	NA	NA	NA	NA	NA	NA	NA	3	398	NA	0.9996524	False
+CMJ_chr8_008560.1	407	InterPro-N	9.0	SM00504	NA	NA	NA	NA	NA	NA	NA	9	76	NA	0.99997646	False
+CMJ_chr8_008560.1	407	PANTHER	19.0	PTHR22849	NA	WDSAM1 PROTEIN	Family	IPR045185	PUB22/23/24-like	E3 ubiquitin-protein ligase PUB22/23/24-like	Family	2	400	4.8e-150	512.3	True
+CMJ_chr8_008560.1	407	SMART	9.0	SM00504	Ubox	Modified RING finger domain	Domain	IPR003613	Ubox_domain	U-box domain	Domain	9	76	1.4e-29	114.2	False
+CMJ_chr5_003650.1	188	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000003	NA	WRKY transcription factor 57	Region	NA	NA	NA	NA	95	169	5.3e-41	140.2	False
+CMJ_chr5_003650.1	188	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	93	168	6.8e-34	117.5	True
+CMJ_chr5_003650.1	188	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	1	36	NA	NA	False
+CMJ_chr5_003650.1	188	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	11	32	NA	NA	False
+CMJ_chr5_003650.1	188	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	54	95	NA	NA	False
+CMJ_chr5_003650.1	188	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	83	95	NA	NA	False
+CMJ_chr5_003650.1	188	PANTHER	19.0	PTHR31221	NA	WRKY TRANSCRIPTION FACTOR PROTEIN 1-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	52	169	2.8e-47	173.9	True
+CMJ_chr5_003650.1	188	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	110	167	2.9e-23	93.2	False
+CMJ_chr5_003650.1	188	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	104	169	NA	28.827847	False
+CMJ_chr5_003650.1	188	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	109	168	4.1e-38	142.6	False
+CMJ_chr5_003650.1	188	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	102	168	1.31e-28	NA	False
+CMJ_chr5_003650.1	188	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	110	167	NA	0.99999076	False
+CMJ_chr5_003650.1	188	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	104	169	NA	0.9999768	False
+CMJ_chr5_003650.1	188	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	109	168	NA	0.9999957	False
+CMJ_chr5_003650.1	188	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	94	168	NA	0.9995273	False
+CMJ_chr5_003650.1	188	InterPro-N	19.0	PTHR31221	NA	NA	NA	NA	NA	NA	NA	57	169	NA	0.99984103	False
+CMJ_chr5_003650.1	188	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	101	168	NA	0.9982618	False
+CMJ_chr2_018180.1	599	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	328	386	2.2e-22	90.3	False
+CMJ_chr2_018180.1	599	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	199	219	NA	NA	False
+CMJ_chr2_018180.1	599	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	200	216	NA	NA	False
+CMJ_chr2_018180.1	599	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	231	309	NA	NA	False
+CMJ_chr2_018180.1	599	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	253	269	NA	NA	False
+CMJ_chr2_018180.1	599	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	273	286	NA	NA	False
+CMJ_chr2_018180.1	599	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	297	309	NA	NA	False
+CMJ_chr2_018180.1	599	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	449	472	NA	NA	False
+CMJ_chr2_018180.1	599	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	449	472	NA	NA	False
+CMJ_chr2_018180.1	599	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	507	538	NA	NA	False
+CMJ_chr2_018180.1	599	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	507	537	NA	NA	False
+CMJ_chr2_018180.1	599	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	569	599	NA	NA	False
+CMJ_chr2_018180.1	599	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	569	599	NA	NA	False
+CMJ_chr2_018180.1	599	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	322	388	NA	29.952631	False
+CMJ_chr2_018180.1	599	COILS	2.2.1	Coil	NA	Coil	Region	NA	NA	NA	NA	148	189	NA	NA	False
+CMJ_chr2_018180.1	599	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	320	388	5.23e-28	NA	False
+CMJ_chr2_018180.1	599	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	312	389	2.2e-33	115.9	True
+CMJ_chr2_018180.1	599	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	320	388	NA	0.9988044	False
+CMJ_chr2_018180.1	599	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	329	386	NA	0.99998707	False
+CMJ_chr2_018180.1	599	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	322	388	NA	0.99965847	False
+CMJ_chr2_018180.1	599	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	312	389	NA	0.9995258	False
+CMJ_chr2_018180.1	599	InterPro-N	19.0	PTHR31429	NA	NA	NA	NA	NA	NA	NA	133	566	NA	0.99995863	False
+CMJ_chr2_018180.1	599	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	327	387	NA	0.9999753	False
+CMJ_chr2_018180.1	599	PANTHER	19.0	PTHR31429	NA	WRKY TRANSCRIPTION FACTOR 36-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	134	566	1.7e-117	404.7	True
+CMJ_chr2_018180.1	599	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	327	387	3.8e-37	139.4	False
+CMJ_chr2_018180.1	599	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000002	NA	probable WRKY transcription factor 31	Region	NA	NA	NA	NA	312	389	2e-51	173.8	False
+CMJ_chr6_006230.5	367	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	287	343	8e-24	94.9	False
+CMJ_chr6_006230.5	367	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	86	141	1.5e-23	94.1	False
+CMJ_chr6_006230.5	367	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	137	170	NA	NA	False
+CMJ_chr6_006230.5	367	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	213	268	NA	NA	False
+CMJ_chr6_006230.5	367	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	214	229	NA	NA	False
+CMJ_chr6_006230.5	367	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	235	248	NA	NA	False
+CMJ_chr6_006230.5	367	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	338	367	NA	NA	False
+CMJ_chr6_006230.5	367	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	347	367	NA	NA	False
+CMJ_chr6_006230.5	367	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	86	143	NA	24.122112	False
+CMJ_chr6_006230.5	367	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	280	345	NA	35.151897	False
+CMJ_chr6_006230.5	367	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	279	345	5.36e-29	NA	False
+CMJ_chr6_006230.5	367	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	83	143	1.83e-26	NA	False
+CMJ_chr6_006230.5	367	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	78	144	1.1e-28	100.8	True
+CMJ_chr6_006230.5	367	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	271	346	3.3e-35	121.7	True
+CMJ_chr6_006230.5	367	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	277	345	NA	0.99936765	False
+CMJ_chr6_006230.5	367	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	83	143	NA	0.9991405	False
+CMJ_chr6_006230.5	367	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	286	343	NA	0.9999643	False
+CMJ_chr6_006230.5	367	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	86	141	NA	0.99995697	False
+CMJ_chr6_006230.5	367	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	280	345	NA	0.9999153	False
+CMJ_chr6_006230.5	367	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	85	143	NA	0.99990433	False
+CMJ_chr6_006230.5	367	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	271	345	NA	0.9982179	False
+CMJ_chr6_006230.5	367	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	76	144	NA	0.9977127	False
+CMJ_chr6_006230.5	367	InterPro-N	19.0	PTHR31221	NA	NA	NA	NA	NA	NA	NA	211	350	NA	0.9996717	False
+CMJ_chr6_006230.5	367	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	84	142	NA	0.9999814	False
+CMJ_chr6_006230.5	367	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	285	344	NA	0.99995744	False
+CMJ_chr6_006230.5	367	PANTHER	19.0	PTHR31221	NA	WRKY TRANSCRIPTION FACTOR PROTEIN 1-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	227	347	1.9e-44	164.6	True
+CMJ_chr6_006230.5	367	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	84	142	3.2e-37	139.6	False
+CMJ_chr6_006230.5	367	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	285	344	7.7e-40	148.4	False
+CMJ_chr6_006230.5	367	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000006	NA	WRKY transcription factor	Region	NA	NA	NA	NA	75	144	4.3e-36	124.6	False
+CMJ_chr6_006230.5	367	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000003	NA	WRKY transcription factor 57	Region	NA	NA	NA	NA	271	345	3.5e-34	118.3	False
+CMJ_chr4_025320.1	322	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000008	NA	WRKY transcription factor 40	Region	NA	NA	NA	NA	142	219	9.9e-47	158.6	False
+CMJ_chr4_025320.1	322	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	140	219	1.5e-30	106.8	True
+CMJ_chr4_025320.1	322	COILS	2.2.1	Coil	NA	Coil	Region	NA	NA	NA	NA	61	88	NA	NA	False
+CMJ_chr4_025320.1	322	PANTHER	19.0	PTHR31429	NA	WRKY TRANSCRIPTION FACTOR 36-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	44	311	5.4e-73	258.4	True
+CMJ_chr4_025320.1	322	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	158	216	6.4e-22	88.9	False
+CMJ_chr4_025320.1	322	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	152	218	NA	27.668629	False
+CMJ_chr4_025320.1	322	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	157	217	1.1e-35	134.5	False
+CMJ_chr4_025320.1	322	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	155	218	6.93e-26	NA	False
+CMJ_chr4_025320.1	322	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	152	218	NA	0.9992004	False
+CMJ_chr4_025320.1	322	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	141	219	NA	0.99663687	False
+CMJ_chr4_025320.1	322	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	154	218	NA	0.9978566	False
+CMJ_chr4_025320.1	322	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	157	217	NA	0.9999548	False
+CMJ_chr4_025320.1	322	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	158	216	NA	0.9999913	False
+CMJ_chr4_025320.1	322	InterPro-N	19.0	PTHR31429	NA	NA	NA	NA	NA	NA	NA	44	311	NA	0.99990207	False
+CMJ_chr6_011540.1	330	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	141	201	5.6e-21	85.8	False
+CMJ_chr6_011540.1	330	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	240	270	NA	NA	False
+CMJ_chr6_011540.1	330	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	244	253	NA	NA	False
+CMJ_chr6_011540.1	330	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	259	268	NA	NA	False
+CMJ_chr6_011540.1	330	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	135	198	NA	20.678892	False
+CMJ_chr6_011540.1	330	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	134	201	1.7e-24	NA	False
+CMJ_chr6_011540.1	330	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	125	202	2.7e-25	90.0	True
+CMJ_chr6_011540.1	330	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	137	201	NA	0.9955458	False
+CMJ_chr6_011540.1	330	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	141	201	NA	0.99999255	False
+CMJ_chr6_011540.1	330	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	135	199	NA	0.9999304	False
+CMJ_chr6_011540.1	330	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	126	203	NA	0.9979511	False
+CMJ_chr6_011540.1	330	InterPro-N	19.0	PTHR32096	NA	NA	NA	NA	NA	NA	NA	20	299	NA	0.993307	False
+CMJ_chr6_011540.1	330	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	140	202	NA	0.999991	False
+CMJ_chr6_011540.1	330	PANTHER	19.0	PTHR32096	NA	WRKY TRANSCRIPTION FACTOR 30-RELATED-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	20	282	4.5e-35	133.8	True
+CMJ_chr6_011540.1	330	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	140	202	4.4e-37	139.2	False
+CMJ_chr7_023240.1	310	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	119	190	1.5e-26	93.8	True
+CMJ_chr7_023240.1	310	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	79	90	NA	NA	False
+CMJ_chr7_023240.1	310	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	79	116	NA	NA	False
+CMJ_chr7_023240.1	310	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	91	114	NA	NA	False
+CMJ_chr7_023240.1	310	PANTHER	19.0	PTHR32096	NA	WRKY TRANSCRIPTION FACTOR 30-RELATED-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	12	271	9.9e-36	135.9	True
+CMJ_chr7_023240.1	310	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	136	195	6.5e-22	88.8	False
+CMJ_chr7_023240.1	310	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	130	193	NA	20.231274	False
+CMJ_chr7_023240.1	310	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	135	197	7.6e-38	141.7	False
+CMJ_chr7_023240.1	310	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	131	196	1.31e-24	NA	False
+CMJ_chr7_023240.1	310	InterPro-N	19.0	PTHR32096	NA	NA	NA	NA	NA	NA	NA	15	260	NA	0.91822404	False
+CMJ_chr7_023240.1	310	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	131	197	NA	0.99368185	False
+CMJ_chr7_023240.1	310	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	121	197	NA	0.99888664	False
+CMJ_chr7_023240.1	310	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	135	197	NA	0.99999046	False
+CMJ_chr7_023240.1	310	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	130	193	NA	0.99996793	False
+CMJ_chr7_023240.1	310	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	136	195	NA	0.9999921	False
+CMJ_chr1_009680.2	235	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	81	139	2.4e-21	87.0	False
+CMJ_chr1_009680.2	235	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	1	57	NA	NA	False
+CMJ_chr1_009680.2	235	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	9	19	NA	NA	False
+CMJ_chr1_009680.2	235	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	34	44	NA	NA	False
+CMJ_chr1_009680.2	235	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	75	141	NA	27.232489	False
+CMJ_chr1_009680.2	235	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	77	141	1.96e-25	NA	False
+CMJ_chr1_009680.2	235	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	62	142	4.8e-29	102.0	True
+CMJ_chr1_009680.2	235	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	76	141	NA	0.99953026	False
+CMJ_chr1_009680.2	235	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	81	139	NA	0.99999344	False
+CMJ_chr1_009680.2	235	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	76	141	NA	0.9999256	False
+CMJ_chr1_009680.2	235	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	63	141	NA	0.99749243	False
+CMJ_chr1_009680.2	235	InterPro-N	19.0	PTHR31429	NA	NA	NA	NA	NA	NA	NA	22	227	NA	0.99992687	False
+CMJ_chr1_009680.2	235	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	80	140	NA	0.9999512	False
+CMJ_chr1_009680.2	235	PANTHER	19.0	PTHR31429	NA	WRKY TRANSCRIPTION FACTOR 36-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	12	226	3.3e-61	219.6	True
+CMJ_chr1_009680.2	235	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	80	140	4.5e-34	129.2	False
+CMJ_chr1_009680.2	235	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000008	NA	WRKY transcription factor 40	Region	NA	NA	NA	NA	64	142	1.3e-46	158.3	False
+CMJ_chr6_021290.1	501	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	392	449	1.4e-23	94.2	False
+CMJ_chr6_021290.1	501	Pfam	38.2	PF03106	WRKY	WRKY DNA -binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	223	279	2.3e-22	90.3	False
+CMJ_chr6_021290.1	501	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	1	30	NA	NA	False
+CMJ_chr6_021290.1	501	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	174	230	NA	NA	False
+CMJ_chr6_021290.1	501	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	174	199	NA	NA	False
+CMJ_chr6_021290.1	501	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	272	307	NA	NA	False
+CMJ_chr6_021290.1	501	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	273	291	NA	NA	False
+CMJ_chr6_021290.1	501	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	293	307	NA	NA	False
+CMJ_chr6_021290.1	501	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	322	362	NA	NA	False
+CMJ_chr6_021290.1	501	MobiDB-lite	4.0	mobidb-lite	disorder_prediction	Consensus disorder prediction	Region	NA	NA	NA	NA	447	466	NA	NA	False
+CMJ_chr6_021290.1	501	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	217	281	NA	24.604164	False
+CMJ_chr6_021290.1	501	PROSITE profiles	2026_01	PS50811	WRKY	WRKY domain profile	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	386	451	NA	38.170452	False
+CMJ_chr6_021290.1	501	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	383	451	1.7e-29	NA	False
+CMJ_chr6_021290.1	501	SUPERFAMILY	1.75	SSF118290	NA	WRKY DNA-binding domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	220	281	2.22e-25	NA	False
+CMJ_chr6_021290.1	501	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	208	282	4.5e-27	95.7	True
+CMJ_chr6_021290.1	501	CATH-Gene3D	4.3.0	G3DSA:2.20.25.80	NA	WRKY domain	Homologous_superfamily	IPR036576	WRKY_dom_sf	WRKY domain superfamily	Homologous_superfamily	376	452	2.3e-36	125.4	True
+CMJ_chr6_021290.1	501	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	220	281	NA	0.99883115	False
+CMJ_chr6_021290.1	501	InterPro-N	1.75	SSF118290	NA	NA	NA	NA	NA	NA	NA	383	451	NA	0.9987959	False
+CMJ_chr6_021290.1	501	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	223	279	NA	0.99994296	False
+CMJ_chr6_021290.1	501	InterPro-N	37.3	PF03106	NA	NA	NA	NA	NA	NA	NA	392	449	NA	0.99991393	False
+CMJ_chr6_021290.1	501	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	385	451	NA	0.9999442	False
+CMJ_chr6_021290.1	501	InterPro-N	2025_01	PS50811	NA	NA	NA	NA	NA	NA	NA	221	281	NA	0.9999271	False
+CMJ_chr6_021290.1	501	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	377	452	NA	0.99889797	False
+CMJ_chr6_021290.1	501	InterPro-N	4.3.0	G3DSA:2.20.25.80	NA	NA	NA	NA	NA	NA	NA	208	282	NA	0.99804354	False
+CMJ_chr6_021290.1	501	InterPro-N	19.0	PTHR31221	NA	NA	NA	NA	NA	NA	NA	270	468	NA	0.99647444	False
+CMJ_chr6_021290.1	501	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	222	280	NA	0.9999884	False
+CMJ_chr6_021290.1	501	InterPro-N	9.0	SM00774	NA	NA	NA	NA	NA	NA	NA	391	450	NA	0.9999638	False
+CMJ_chr6_021290.1	501	PANTHER	19.0	PTHR31221	NA	WRKY TRANSCRIPTION FACTOR PROTEIN 1-RELATED	Family	IPR044810	WRKY_plant	WRKY transcription factor, plant	Family	266	463	6.6e-57	205.4	True
+CMJ_chr6_021290.1	501	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	222	280	8.8e-36	134.9	False
+CMJ_chr6_021290.1	501	SMART	9.0	SM00774	WRKY	DNA binding domain	Domain	IPR003657	WRKY_dom	WRKY domain	Domain	391	450	1.2e-39	147.7	False
+CMJ_chr6_021290.1	501	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000006	NA	WRKY transcription factor	Region	NA	NA	NA	NA	209	282	2.7e-33	115.6	False
+CMJ_chr6_021290.1	501	CATH-FunFam	4.3.0	G3DSA:2.20.25.80:FF:000001	NA	WRKY transcription factor 33	Region	NA	NA	NA	NA	378	444	1.9e-42	144.8	False

@@ -1,0 +1,1408 @@
+{
+  "INFO": {
+    "failedjobs": 0,
+    "size": 87
+  },
+  "CSV_FILE": "/home/caiov/wrky_analysis/results/Maxima/signalp/prediction_results.txt",
+  "MATURE_FILE": "/home/caiov/wrky_analysis/results/Maxima/signalp/processed_entries.fasta",
+  "GFF_FILE": "/home/caiov/wrky_analysis/results/Maxima/signalp/output.gff3",
+  "ZIP_FILE": "",
+  "SEQUENCES": {
+    "Cg1g005770.1": {
+      "Name": "Cg1g005770.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg1g021340.3": {
+      "Name": "Cg1g021340.3",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg1g021340.2": {
+      "Name": "Cg1g021340.2",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg1g021340.1": {
+      "Name": "Cg1g021340.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg1g022310.1": {
+      "Name": "Cg1g022310.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg1g027010.1": {
+      "Name": "Cg1g027010.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg2g010670.1": {
+      "Name": "Cg2g010670.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg2g012720.1": {
+      "Name": "Cg2g012720.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg2g018660.1": {
+      "Name": "Cg2g018660.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg2g019920.1": {
+      "Name": "Cg2g019920.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg2g038590.1": {
+      "Name": "Cg2g038590.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg2g043650.1": {
+      "Name": "Cg2g043650.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg2g044350.1": {
+      "Name": "Cg2g044350.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg2g045420.2": {
+      "Name": "Cg2g045420.2",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg2g045420.1": {
+      "Name": "Cg2g045420.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg3g005940.1": {
+      "Name": "Cg3g005940.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg3g021010.1": {
+      "Name": "Cg3g021010.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg3g021010.2": {
+      "Name": "Cg3g021010.2",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg4g000690.2": {
+      "Name": "Cg4g000690.2",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg4g000690.1": {
+      "Name": "Cg4g000690.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg4g001460.2": {
+      "Name": "Cg4g001460.2",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg4g001460.1": {
+      "Name": "Cg4g001460.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg4g001470.1": {
+      "Name": "Cg4g001470.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg4g012460.1": {
+      "Name": "Cg4g012460.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg4g013200.3": {
+      "Name": "Cg4g013200.3",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg4g013200.2": {
+      "Name": "Cg4g013200.2",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0001
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg4g013200.1": {
+      "Name": "Cg4g013200.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0001
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg4g013200.4": {
+      "Name": "Cg4g013200.4",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg4g017340.5": {
+      "Name": "Cg4g017340.5",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg4g017340.2": {
+      "Name": "Cg4g017340.2",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg4g017340.4": {
+      "Name": "Cg4g017340.4",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg4g017340.1": {
+      "Name": "Cg4g017340.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg4g017340.3": {
+      "Name": "Cg4g017340.3",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg4g019190.3": {
+      "Name": "Cg4g019190.3",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg4g019190.2": {
+      "Name": "Cg4g019190.2",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg4g019190.1": {
+      "Name": "Cg4g019190.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg4g024270.1": {
+      "Name": "Cg4g024270.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg4g024270.2": {
+      "Name": "Cg4g024270.2",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg5g001540.2": {
+      "Name": "Cg5g001540.2",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0003,
+        0.9997
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 20 and 21. Probability 0.974542"
+    },
+    "Cg5g001540.1": {
+      "Name": "Cg5g001540.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg5g001540.2.1": {
+      "Name": "Cg5g001540.2.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        0.7353,
+        0.2647
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg5g002150.1": {
+      "Name": "Cg5g002150.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg5g003350.1": {
+      "Name": "Cg5g003350.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg5g024060.1": {
+      "Name": "Cg5g024060.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg5g026550.1": {
+      "Name": "Cg5g026550.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.2598,
+        0.7402
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 31 and 32. Probability 0.413644"
+    },
+    "Cg5g027180.1": {
+      "Name": "Cg5g027180.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg5g034480.2": {
+      "Name": "Cg5g034480.2",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg5g034480.1": {
+      "Name": "Cg5g034480.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg5g038430.1": {
+      "Name": "Cg5g038430.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0001
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg5g038430.2": {
+      "Name": "Cg5g038430.2",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg5g038680.1": {
+      "Name": "Cg5g038680.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg5g039340.1": {
+      "Name": "Cg5g039340.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg5g040920.1": {
+      "Name": "Cg5g040920.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg5g040920.2": {
+      "Name": "Cg5g040920.2",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg5g041440.1": {
+      "Name": "Cg5g041440.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg5g041490.1": {
+      "Name": "Cg5g041490.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg5g044510.1": {
+      "Name": "Cg5g044510.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg6g001470.1": {
+      "Name": "Cg6g001470.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg6g001470.2": {
+      "Name": "Cg6g001470.2",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg6g003030.3": {
+      "Name": "Cg6g003030.3",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg6g003030.1": {
+      "Name": "Cg6g003030.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg6g003030.2": {
+      "Name": "Cg6g003030.2",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        0.7365,
+        0.2635
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg6g009950.2": {
+      "Name": "Cg6g009950.2",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg6g009950.1": {
+      "Name": "Cg6g009950.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg6g010690.1": {
+      "Name": "Cg6g010690.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg6g024200.1": {
+      "Name": "Cg6g024200.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg6g025600.1": {
+      "Name": "Cg6g025600.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg7g003880.1": {
+      "Name": "Cg7g003880.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg7g003890.1": {
+      "Name": "Cg7g003890.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg7g010390.1": {
+      "Name": "Cg7g010390.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg7g016740.1": {
+      "Name": "Cg7g016740.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg7g020740.1": {
+      "Name": "Cg7g020740.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg7g021700.2": {
+      "Name": "Cg7g021700.2",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg7g021700.1": {
+      "Name": "Cg7g021700.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg7g021940.7": {
+      "Name": "Cg7g021940.7",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg7g021940.5": {
+      "Name": "Cg7g021940.5",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg7g021940.8": {
+      "Name": "Cg7g021940.8",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg7g021940.6": {
+      "Name": "Cg7g021940.6",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg7g021940.3": {
+      "Name": "Cg7g021940.3",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg7g021940.4": {
+      "Name": "Cg7g021940.4",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg7g021940.1": {
+      "Name": "Cg7g021940.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg7g021940.2": {
+      "Name": "Cg7g021940.2",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg8g011160.1": {
+      "Name": "Cg8g011160.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg9g001010.1": {
+      "Name": "Cg9g001010.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg9g027680.1": {
+      "Name": "Cg9g027680.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "Cg9g028250.1": {
+      "Name": "Cg9g028250.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "CgUng021260.1": {
+      "Name": "CgUng021260.1",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    }
+  },
+  "FORMAT": "none",
+  "ORG": "eukarya",
+  "MODE": "fast",
+  "REGION_GFF_FILE": "/home/caiov/wrky_analysis/results/Maxima/signalp/region_output.gff3"
+}

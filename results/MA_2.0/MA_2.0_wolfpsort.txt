@@ -1,0 +1,52 @@
+CMJ_chr6_006230.5 details nucl: 14
+CMJ_chr7_002180.4 details nucl: 14
+CMJ_chr1_006660.1 details nucl: 14
+CMJ_chr6_010730.1 details nucl: 12, cyto: 1, cysk: 1
+CMJ_chr6_021290.1 details nucl: 14
+CMJ_chr4_007220.3 details nucl: 14
+CMJ_chr2_017020.1 details nucl: 14
+CMJ_chr4_000860.1 details nucl: 14
+CMJ_chr5_019500.1 details nucl: 8, cyto: 2, plas: 1.5, golg_plas: 1.5, chlo: 1, cysk: 1
+CMJ_chr5_006290.1 details nucl: 13, chlo: 1
+CMJ_chr9_012700.1 details nucl: 14
+CMJ_chr2_002560.1 details nucl: 14
+CMJ_chr5_043250.1 details nucl: 14
+CMJ_chr7_007480.1 details nucl: 14
+CMJ_chr5_004130.1 details nucl: 11, mito: 1, plas: 1, cysk: 1
+CMJ_chr8_009190.1 details nucl: 14
+CMJ_chr5_011210.1 details nucl: 14
+CMJ_chr9_009740.1 details nucl: 13, chlo: 1
+CMJ_chr5_003650.1 details pero: 12, cyto: 1.5, cyto_nucl: 1.5
+CMJ_chr9_009270.1 details nucl: 10, cyto: 2, mito: 2
+CMJ_chr7_013430.1 details nucl: 14
+CMJ_chr1_022090.1 details nucl: 12, chlo: 1, cyto: 1
+CMJ_chr3_023670.1 details nucl: 14
+CMJ_chr2_008040.1 details nucl: 14
+CMJ_chr2_003320.1 details nucl: 13, cyto: 1
+CMJ_chr4_005080.1 details nucl: 12, extr: 2
+CMJ_chr3_005940.1 details nucl: 14
+CMJ_chr2_018180.1 details nucl: 14
+CMJ_chr4_008940.1 details nucl: 3, golg: 3, cyto: 2, mito: 2, vacu: 2, chlo: 1, E.R.: 1
+CMJ_chr1_002910.1 details nucl: 11, chlo: 1, cyto: 1, extr: 1
+CMJ_chr5_006500.1 details nucl: 12, chlo: 1, vacu: 1
+CMJ_chr5_042520.1 details nucl: 13, cysk: 1
+CMJ_chr6_022400.1 details nucl: 11, chlo: 2, extr: 1
+CMJ_chr5_005620.1 details nucl: 12, cyto: 1, plas: 1
+CMJ_chr5_003600.1 details nucl: 14
+CMJ_chr5_041190.1 details nucl: 14
+CMJ_chr4_025320.1 details nucl: 13, plas: 1
+CMJ_chr2_001470.1 details nucl: 11, cyto: 1, plas: 1, vacu: 1
+CMJ_chr4_009630.1 details nucl: 12, chlo: 1, vacu: 1
+CMJ_chr5_000500.1 details pero: 10, cyto: 2.5, cyto_nucl: 2.5, nucl: 1.5
+CMJ_chr7_023240.1 details nucl: 14
+CMJ_chr1_009680.2 details nucl: 14
+CMJ_chr6_023850.1 details nucl: 14
+CMJ_chr6_011540.1 details nucl: 14
+CMJ_chr7_003410.1 details nucl: 12, cyto: 1, vacu: 1
+CMJ_chr4_025330.1 details nucl: 13, extr: 1
+CMJ_chr7_023260.1 details nucl: 14
+CMJ_chr1_002460.1 details nucl: 6.5, cyto_nucl: 6, cyto: 4.5, chlo: 1, plas: 1, extr: 1
+CMJ_chr4_026050.1 details cyto: 9, nucl: 2, cysk: 2, chlo: 1
+CMJ_chr5_019530.1 details extr: 5, chlo: 3, vacu: 3, cyto: 2, plas: 1
+CMJ_chr2_030690.1 details nucl: 7, chlo: 2, extr: 2, cyto: 1, plas: 1, golg: 1
+CMJ_chr8_008560.1 details cyto: 7, nucl: 3, chlo: 2, vacu: 1, cysk: 1

@@ -1,371 +1,139 @@
-# Caracterização de proteínas WRKY em Citrus
+# WRKY characterization workflow for Citrus
 
-Este fluxo recebe um FASTA de proteínas candidatas WRKY e gera uma tabela final com:
+This workflow accepts a FASTA of candidate WRKY proteins and produces one final TSV per species. The species/sample prefix is derived from the FASTA filename, so the scripts do not need to be edited for every Citrus species.
 
-- tamanho da proteína;
-- peso molecular;
-- ponto isoelétrico (pI);
-- peptídeo sinal — SignalP 6;
-- localização subcelular — WoLF PSORT;
-- domínios proteicos — InterPro;
-- número e posição dos domínios WRKY;
-- outros domínios encontrados.
+## 1. Filename convention
 
-Ao final, todas as informações são reunidas em um único arquivo TSV.
+Name the input FASTA `<prefix>_proteins.fasta`, for example:
 
----
+- `data/RE_proteins.fasta` → prefix `RE`
+- `data/Csinensis_proteins.fasta` → prefix `Csinensis`
+- `data/Citrus_sinensis_proteins.fasta` → prefix `Citrus_sinensis`
 
-# 1. Instalação
+The part before `_proteins` becomes the prefix. If the filename does not end in a recognized suffix, the whole filename stem is used. You can override the detected prefix with `--prefix`.
 
-## Criar o ambiente
+Keep protein IDs in the FASTA unique and unchanged when submitting the sequences to InterPro and WoLF PSORT; the scripts use those IDs to join results from the different tools.
+
+## 2. Requirements
+
+Activate the project environment:
+
+```bash
+micromamba activate wrky-analysis
+```
+
+Python 3.10, Biopython and SignalP 6 are required for the local steps. Create the environment and install the Python packages:
 
 ```bash
 micromamba create -n wrky-analysis python=3.10 pip
 micromamba activate wrky-analysis
+pip install -r requirements.txt
 ```
 
-Instalar Biopython:
+Download the **portable SignalP 6 fast package** from the official DTU website. The download is large and requires following the site's access/licence instructions. Extract it into the project. For example, if the downloaded archive is `~/Downloads/signalp-6.0i.fast.tar.gz`:
 
 ```bash
-pip install biopython
-```
-
-O `caracterize_proteins.py` usa Biopython para calcular tamanho, peso molecular e pI.
-
-Os scripts `parse_interpro.py` e `build_final_table.py` usam apenas módulos padrão do Python.
-
-## Instalar SignalP 6
-
-Baixe a versão portátil **SignalP 6 — fast** no site oficial da DTU e extraia o arquivo.
-
-Exemplo de organização:
-
-```text
-wrky_analysis/
-└── software/
-    └── signalp6/
-        └── signalp6_fast/
-            └── signalp-6-package/
-                ├── models/
-                ├── signalp/
-                ├── setup.py
-                └── pyproject.toml
-```
-
-Ative o ambiente:
-
-```bash
-micromamba activate wrky-analysis
-```
-
-Instale uma versão compatível do NumPy:
-
-```bash
-pip install "numpy<2"
-```
-
-Entre na pasta do pacote:
-
-```bash
+mkdir -p ~/wrky_analysis/software/signalp6
+tar -xzf ~/Downloads/signalp-6.0i.fast.tar.gz \
+  -C ~/wrky_analysis/software/signalp6
 cd ~/wrky_analysis/software/signalp6/signalp6_fast/signalp-6-package
-```
-
-Instale:
-
-```bash
+pip install "numpy<2"
 pip install .
-```
-
-Confira:
-
-```bash
+cd ~/wrky_analysis
 signalp6 --version
 ```
 
-Depois volte à raiz do projeto:
+If the downloaded archive has a different name, replace it in the `tar` command. SignalP and its model files are large and are intentionally **not included in this Git repository**. The workflow expects the models at:
+
+```text
+software/signalp6/signalp6_fast/signalp-6-package/models
+```
+
+If they are elsewhere, provide `--model-dir` when running the pipeline.
+
+## 3. Run the local steps
+
+From the repository root, place your FASTA in `data/` and run, for example:
 
 ```bash
-cd ~/wrky_analysis
+python scripts/run_pipeline.py --fasta data/Csinensis_proteins.fasta
 ```
 
----
+The workflow derives the prefix (`Csinensis`) and creates `results/Csinensis/`. It runs SignalP and calculates protein length, molecular weight and pI. On this first run, it will tell you the exact paths where the web results need to be saved.
 
-# 2. Preparar o FASTA da espécie
+## 4. Run the web analyses
 
-Cada pessoa deve usar um FASTA contendo as proteínas candidatas WRKY da sua espécie.
+The InterPro and WoLF PSORT submissions are manual because this workflow does not automate their websites.
 
-Exemplo:
+### InterPro
+
+1. Submit the same FASTA at <https://www.ebi.ac.uk/interpro/search/sequence/>.
+2. Download **JSON output** and **TSV output**.
+3. Save them using the prefix-derived names in `results/Csinensis/`:
 
 ```text
-data/Csinensis_proteins.fasta
-```
-
-Neste README, `Csinensis` é apenas um exemplo. Troque esse nome pelo identificador da espécie analisada em todos os comandos.
-
-Crie uma pasta de resultados:
-
-```bash
-mkdir -p results/Csinensis
-```
-
----
-
-# 3. Rodar SignalP
-
-Para proteínas vegetais, usar `eukarya`.
-
-```bash
-signalp6 \
-  --fastafile ~/wrky_analysis/data/Csinensis_proteins.fasta \
-  --output_dir ~/wrky_analysis/results/Csinensis/signalp \
-  --organism eukarya \
-  --mode fast \
-  --format none \
-  --bsize 10 \
-  --write_procs 2 \
-  --torch_num_threads 4 \
-  --model_dir ~/wrky_analysis/software/signalp6/signalp6_fast/signalp-6-package/models
-```
-
-O arquivo necessário para a próxima etapa será:
-
-```text
-results/Csinensis/signalp/prediction_results.txt
-```
-
----
-
-# 4. Calcular tamanho, peso molecular e pI
-
-Execute:
-
-```bash
-python scripts/caracterize_proteins.py \
-  -i data/Csinensis_proteins.fasta \
-  --signalp results/Csinensis/signalp/prediction_results.txt \
-  -o results/Csinensis/Csinensis_results.tsv
-```
-
-Esse script calcula:
-
-- comprimento;
-- peso molecular;
-- pI;
-
-e adiciona os resultados do SignalP.
-
-Saída:
-
-```text
-results/Csinensis/Csinensis_results.tsv
-```
-
----
-
-# 5. Rodar InterPro
-
-Acesse:
-
-```text
-https://www.ebi.ac.uk/interpro/search/sequence/
-```
-
-No site:
-
-1. envie `data/Csinensis_proteins.fasta`;
-2. submeta todas as sequências;
-3. aguarde a análise;
-4. clique em **Download**;
-5. baixe `TSV output`;
-6. baixe `JSON output`.
-
-Salve como:
-
-```text
-results/Csinensis/Csinensis_interpro.tsv
 results/Csinensis/Csinensis_interpro.json
+results/Csinensis/Csinensis_interpro.tsv
 ```
 
-O JSON é usado pelo próximo script.
+### WoLF PSORT
 
----
+1. Submit the same FASTA at <https://wolfpsort.hgc.jp/>.
+2. Select **Plant**.
+3. Copy the complete text result to:
 
-# 6. Processar os domínios do InterPro
+```text
+results/Csinensis/Csinensis_wolfpsort.txt
+```
 
-Execute:
+Replace `Csinensis` with the prefix for your input FASTA.
+
+## 5. Finish the analysis
+
+Run the same command again:
 
 ```bash
-python scripts/parse_interpro.py \
-  -i results/Csinensis/Csinensis_interpro.json \
-  -o results/Csinensis/interpro_parsed
+python scripts/run_pipeline.py --fasta data/Csinensis_proteins.fasta
 ```
 
-O arquivo principal para a etapa final será:
-
-```text
-results/Csinensis/interpro_parsed/RE_domains.tsv
-```
-
-O parser consolida diferentes bancos que detectam a mesma região proteica. Assim, por exemplo, Pfam, SMART e PROSITE reconhecendo a mesma região WRKY não são contados como três domínios diferentes.
-
----
-
-# 7. Rodar WoLF PSORT
-
-Acesse:
-
-```text
-https://wolfpsort.hgc.jp/
-```
-
-No site:
-
-1. selecione **Plant**;
-2. cole todas as sequências do FASTA no campo de texto;
-3. execute;
-4. copie todo o resultado.
-
-Para mostrar o FASTA no terminal:
-
-```bash
-cat data/Csinensis_proteins.fasta
-```
-
-Salve a saída do WoLF PSORT em:
-
-```text
-results/Csinensis/wolfpsort.txt
-```
-
-O arquivo deve manter o formato original, por exemplo:
-
-```text
-CITRE_001t000750 details nucl: 14
-CITRE_001t001510 details nucl: 10, chlo: 1, cyto: 1, mito: 1, extr: 1
-```
-
-Não edite manualmente os resultados.
-
----
-
-# 8. Gerar a tabela final
-
-Quando existirem:
-
-```text
-results/Csinensis/Csinensis_results.tsv
-results/Csinensis/wolfpsort.txt
-results/Csinensis/interpro_parsed/RE_domains.tsv
-```
-
-execute:
-
-```bash
-python scripts/build_final_table.py \
-  --base results/Csinensis/Csinensis_results.tsv \
-  --wolfpsort results/Csinensis/wolfpsort.txt \
-  --domains results/Csinensis/interpro_parsed/RE_domains.tsv \
-  -o results/Csinensis/Csinensis_final_characterization.tsv
-```
-
-Resultado:
+The script reuses up-to-date local results, detects the saved InterPro and WoLF PSORT outputs, parses the InterPro JSON, and builds:
 
 ```text
 results/Csinensis/Csinensis_final_characterization.tsv
 ```
 
----
-
-# 9. Conferir o resultado
-
-Conte as proteínas do FASTA:
+You can force the local analyses to run again with:
 
 ```bash
-grep -c '^>' data/Csinensis_proteins.fasta
+python scripts/run_pipeline.py --fasta data/Csinensis_proteins.fasta --force
 ```
 
-Conte as linhas da tabela final:
+If SignalP's model files are stored elsewhere:
 
 ```bash
-wc -l results/Csinensis/Csinensis_final_characterization.tsv
+python scripts/run_pipeline.py \
+  --fasta data/Csinensis_proteins.fasta \
+  --model-dir /path/to/signalp-6-package/models
 ```
 
-A tabela final deve ter uma linha a mais que o número de proteínas, por causa do cabeçalho.
+## Outputs
 
-Exemplo:
-
-```text
-56 proteínas no FASTA
-57 linhas na tabela final
-```
-
----
-
-# Ordem resumida
+Each species gets its own folder, preventing results from being overwritten by another species:
 
 ```text
-FASTA
- |
- +-- SignalP
- |    |
- |    +-- prediction_results.txt
- |           |
- |           +-- caracterize_proteins.py
- |                  |
- |                  +-- Csinensis_results.tsv
- |
- +-- InterPro
- |    |
- |    +-- Csinensis_interpro.json
- |           |
- |           +-- parse_interpro.py
- |                  |
- |                  +-- RE_domains.tsv
- |
- +-- WoLF PSORT
-      |
-      +-- wolfpsort.txt
-
-Csinensis_results.tsv
-+ RE_domains.tsv
-+ wolfpsort.txt
-        |
-        +-- build_final_table.py
-                |
-                +-- Csinensis_final_characterization.tsv
-```
-
----
-
-# Arquivos principais a manter
-
-```text
-data/Csinensis_proteins.fasta
-
-results/Csinensis/
-├── Csinensis_results.tsv
-├── Csinensis_interpro.tsv
-├── Csinensis_interpro.json
-├── wolfpsort.txt
+results/<prefix>/
+├── <prefix>_results.tsv
+├── <prefix>_interpro.json
+├── <prefix>_interpro.tsv
+├── <prefix>_wolfpsort.txt
 ├── signalp/
 │   └── prediction_results.txt
 ├── interpro_parsed/
-│   └── RE_domains.tsv
-└── Csinensis_final_characterization.tsv
+│   ├── <prefix>_interpro_metadata.txt
+│   ├── <prefix>_interpro_matches.tsv
+│   ├── <prefix>_domains.tsv
+│   └── <prefix>_domains_summary.tsv
+└── <prefix>_final_characterization.tsv
 ```
 
-O principal arquivo para comparação entre espécies é:
-
-```text
-Csinensis_final_characterization.tsv
-```
-
----
-
-# Observação
-
-Este fluxo não procura proteínas WRKY em um proteoma completo.
-
-Ele recebe um FASTA de proteínas candidatas previamente selecionadas e caracteriza essas sequências.
-
-Proteínas sem domínio WRKY detectado pelo InterPro não devem ser excluídas automaticamente. Esses casos devem ser revisados separadamente.
+The final TSV combines physicochemical properties, SignalP prediction, WoLF PSORT localization and InterPro domains. It does not discover WRKY proteins in a complete proteome; it characterizes the candidate proteins provided in the FASTA. Proteins without a detected WRKY domain should be reviewed rather than automatically discarded.

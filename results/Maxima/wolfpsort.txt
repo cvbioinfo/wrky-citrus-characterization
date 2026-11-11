@@ -1,0 +1,87 @@
+Cg1g005770.1 details nucl: 12, chlo: 1, cyto: 1
+Cg1g021340.3 details pero: 9, nucl: 3, chlo: 1, cyto: 1
+Cg1g021340.2 details nucl: 14
+Cg1g021340.1 details nucl: 13, cyto: 1
+Cg1g022310.1 details nucl: 14
+Cg1g027010.1 details nucl: 11, chlo: 1, cyto: 1, extr: 1
+Cg2g010670.1 details nucl: 11, chlo: 1, plas: 1, extr: 1
+Cg2g012720.1 details nucl: 13, cyto: 1
+Cg2g018660.1 details nucl: 14
+Cg2g019920.1 details nucl: 14
+Cg2g038590.1 details nucl: 13, cyto: 1
+Cg2g043650.1 details nucl: 14
+Cg2g044350.1 details nucl: 10, chlo: 1, plas: 1, extr: 1, pero: 1
+Cg2g045420.2 details nucl: 14
+Cg2g045420.1 details nucl: 13, cyto: 1
+Cg3g005940.1 details nucl: 13, plas: 1
+Cg3g021010.1 details nucl: 14
+Cg3g021010.2 details nucl: 14
+Cg4g000690.2 details nucl: 14
+Cg4g000690.1 details nucl: 14
+Cg4g001460.2 details nucl: 10, chlo: 1, cyto: 1, mito: 1, extr: 1
+Cg4g001460.1 details nucl: 11, chlo: 1, extr: 1, golg_plas: 1
+Cg4g001470.1 details nucl: 13, plas: 1
+Cg4g012460.1 details nucl: 13, vacu: 1
+Cg4g013200.3 details nucl: 14
+Cg4g013200.2 details nucl: 13, cyto: 1
+Cg4g013200.1 details nucl: 14
+Cg4g013200.4 details nucl: 11, cyto: 1, mito: 1, plas: 1
+Cg4g017340.5 details nucl: 12, chlo: 1, cyto: 1
+Cg4g017340.2 details nucl: 14
+Cg4g017340.4 details nucl: 14
+Cg4g017340.1 details nucl: 14
+Cg4g017340.3 details nucl: 14
+Cg4g019190.3 details nucl: 10, extr: 2, mito: 1, plas: 1
+Cg4g019190.2 details nucl: 10, extr: 2, mito: 1, plas: 1
+Cg4g019190.1 details nucl: 13, extr: 1
+Cg4g024270.1 details nucl: 14
+Cg4g024270.2 details nucl: 14
+Cg5g001540.2 details extr: 5, chlo: 4, vacu: 4, cyto: 1
+Cg5g001540.1 details nucl: 14
+Cg5g001540.2.1 details chlo: 7, extr: 5, cyto: 1, vacu: 1
+Cg5g002150.1 details nucl: 13, cysk: 1
+Cg5g003350.1 details nucl: 14
+Cg5g024060.1 details nucl: 4, E.R.: 2.5, mito: 2, vacu: 2, E.R._plas: 2, cyto: 1.5, cyto_pero: 1.5, golg: 1
+Cg5g026550.1 details extr: 7, vacu: 3, plas: 2, nucl: 1, golg: 1
+Cg5g027180.1 details nucl: 14
+Cg5g034480.2 details nucl: 14
+Cg5g034480.1 details nucl: 13, cysk: 1
+Cg5g038430.1 details nucl: 12, chlo: 1, vacu: 1
+Cg5g038430.2 details nucl: 6, cyto: 5, plas: 1, extr: 1, pero: 1
+Cg5g038680.1 details nucl: 13, chlo: 1
+Cg5g039340.1 details nucl: 12, cyto: 1, plas: 1
+Cg5g040920.1 details nucl: 11, mito: 1, plas: 1, cysk: 1
+Cg5g040920.2 details nucl: 11, mito: 1, plas: 1, cysk: 1
+Cg5g041440.1 details nucl: 12, chlo: 1, extr: 1
+Cg5g041490.1 details nucl: 14
+Cg5g044510.1 details pero: 10, cyto: 2.5, cyto_nucl: 2.5, nucl: 1.5
+Cg6g001470.1 details nucl: 6, cyto: 5, plas: 1.5, cysk_plas: 1.5, vacu: 1
+Cg6g001470.2 details nucl: 6, cyto: 5, plas: 1.5, cysk_plas: 1.5, vacu: 1
+Cg6g003030.3 details nucl: 14
+Cg6g003030.1 details nucl: 14
+Cg6g003030.2 details nucl: 13, cyto: 1
+Cg6g009950.2 details nucl: 14
+Cg6g009950.1 details nucl: 14
+Cg6g010690.1 details nucl: 14
+Cg6g024200.1 details nucl: 13, vacu: 1
+Cg6g025600.1 details chlo: 8, nucl: 5, plas: 1
+Cg7g003880.1 details nucl: 14
+Cg7g003890.1 details nucl: 14
+Cg7g010390.1 details nucl: 11, chlo: 1, plas: 1, extr: 1
+Cg7g016740.1 details nucl: 14
+Cg7g020740.1 details nucl: 12, cyto: 1, vacu: 1
+Cg7g021700.2 details nucl: 14
+Cg7g021700.1 details nucl: 14
+Cg7g021940.7 details nucl: 14
+Cg7g021940.5 details nucl: 14
+Cg7g021940.8 details nucl: 14
+Cg7g021940.6 details nucl: 14
+Cg7g021940.3 details nucl: 14
+Cg7g021940.4 details nucl: 14
+Cg7g021940.1 details nucl: 14
+Cg7g021940.2 details nucl: 14
+Cg8g011160.1 details nucl: 14
+Cg9g001010.1 details nucl: 14
+Cg9g027680.1 details nucl: 14
+Cg9g028250.1 details nucl: 13, chlo: 1
+CgUng021260.1 details nucl: 13, cyto: 1
