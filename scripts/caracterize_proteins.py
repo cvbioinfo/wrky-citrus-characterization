@@ -37,7 +37,10 @@ def read_signalp(signalp_file):
             if line.startswith("#") or not line.strip():
                 continue
 
-            fields = line.rstrip("\n").split("\t")
+            fields = [
+    		field.strip()
+    		for field in line.rstrip("\r\n").split("\t")
+	    ]
 
             protein_id = fields[0]
             prediction = fields[1]

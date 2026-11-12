@@ -1,0 +1,2 @@
+InterProScan version	6.0.3.0
+InterPro version	111.0

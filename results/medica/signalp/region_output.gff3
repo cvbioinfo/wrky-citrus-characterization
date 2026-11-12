@@ -1,7 +1,0 @@
-## gff-version 3
-CITME_005t018630	SignalP-6.0	n-region	1	2	.	.	.	.
-CITME_005t018630	SignalP-6.0	h-region	3	19	.	.	.	.
-CITME_005t018630	SignalP-6.0	c-region	20	23	.	.	.	.
-CITME_007t025760	SignalP-6.0	n-region	1	9	.	.	.	.
-CITME_007t025760	SignalP-6.0	h-region	10	27	.	.	.	.
-CITME_007t025760	SignalP-6.0	c-region	28	29	.	.	.	.
